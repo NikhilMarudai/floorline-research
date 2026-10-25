@@ -1,6 +1,6 @@
-# PriceLine research appendix
+# Floorline research appendix
 
-PriceLine (shown as Floorline in the app until the rename) sets a price and a minimum on every item in a small furniture store, and checks every offer on the sales floor against that minimum. This folder is everything behind the claims on the site, the deck and the video. Built at VibeCon SF, October 2026.
+Floorline sets a price and a minimum on every item in a small furniture store, and checks every offer on the sales floor against that minimum. This folder is everything behind the claims on the site, the deck and the video. Built at VibeCon SF, October 2026.
 
 Every number has a source. Each findings file has a Summary, numbered Findings with a source link and a confidence level, Tables, Gaps, and a Sources list, plus a JSON copy for filtering. Store details are anonymized: we're working with the owner-operator of a family-run store near Sacramento, California, and the store and its town are not named.
 

@@ -1,7 +1,7 @@
 # Market size at today's pricing
 Generated: 2026-10-25 ~06:40 PDT · Agent: research-fork · Status: complete
 
-Recomputes the market for PriceLine's three tiers as built in Rounds T and T2: Floor $200, Gallery $250, Forecast $450 per store per month, billed from day one with a 30-day refund. Store counts are from `11-expansion-census.md` (Census County Business Patterns 2023, establishments with fewer than 20 employees). The expansion order is from `13-expansion-market.md`. The tier mix is an assumption, stated below. No published data gives the share of customers who pick each tier; the often-quoted "60–70% pick the middle" has no traceable source (`10-pricing-tiers.md`).
+Recomputes the market for Floorline's three tiers as built in Rounds T and T2: Floor $200, Gallery $250, Forecast $450 per store per month, billed from day one with a 30-day refund. Store counts are from `11-expansion-census.md` (Census County Business Patterns 2023, establishments with fewer than 20 employees). The expansion order is from `13-expansion-market.md`. The tier mix is an assumption, stated below. No published data gives the share of customers who pick each tier; the often-quoted "60–70% pick the middle" has no traceable source (`10-pricing-tiers.md`).
 
 ## Summary
 - At a base mix of 50% Floor, 35% Gallery and 15% Forecast, the blended price is $255 a store a month, or $3,060 a year.

@@ -80,7 +80,7 @@ That all lands on the owner's time:
 **Headline:** One place to set every price, and a floor no one can sell below.
 
 **Page text:**
-PriceLine is a pricing system for the owner. Every item carries a price that can change: when it's been sitting too long, when it's selling fast, when something's trending. The owner sets the rules once, and every price follows them.
+Floorline is a pricing system for the owner. Every item carries a price that can change: when it's been sitting too long, when it's selling fast, when something's trending. The owner sets the rules once, and every price follows them.
 
 Every item also carries a minimum, the lowest the store will take. Salespeople check offers against it on their phone, with delivery or assembly already counted in. Above the minimum, yes. Below it, no, with two counteroffers they can say right there. Nobody sells below it, and nobody has to call the owner.
 
@@ -88,7 +88,7 @@ Sales get easy too. The owner sees every item in one place, sets the sale there,
 
 **Slide line:** Every item gets a price that can change and a minimum no one sells below. Sales are set in one place.
 
-**Spoken line:** PriceLine gives every item a price that keeps up with the store, and a minimum the salespeople can't go under.
+**Spoken line:** Floorline gives every item a price that keeps up with the store, and a minimum the salespeople can't go under.
 
 **Sources:** pricing rules and thresholds from the owner interview (jazz-interview.md, PRODUCT.md). The hard floor matches the app after Round HF: there is no ask-the-owner path.
 
@@ -179,7 +179,7 @@ Small stores already have tools, they're just scattered. The register (Square, S
 
 The only furniture software that sends a discount request to a manager's phone is STORIS, and it's sold to the biggest chains. It checks fixed rules; it doesn't work out a price for each piece.
 
-Nobody gives a small store one place to set every price, a minimum the floor can't go under, and a way to see the whole showroom. That's what PriceLine is.
+Nobody gives a small store one place to set every price, a minimum the floor can't go under, and a way to see the whole showroom. That's what Floorline is.
 
 **Table (site and deck):**
 
@@ -244,7 +244,7 @@ Podium grew the same way: it started in the founder's family business and sold d
 **Headline:** The more a store uses it, the smarter its prices get.
 
 **Page text:**
-Every deal, every sale that didn't close, every week an item sits is data. Once a store has enough of it, PriceLine moves from prices set by rules to prices that learn from what actually sells in that store. The app already shows each store how close it is.
+Every deal, every sale that didn't close, every week an item sits is data. Once a store has enough of it, Floorline moves from prices set by rules to prices that learn from what actually sells in that store. The app already shows each store how close it is.
 
 Then we take it to other stores that haggle:
 
