@@ -1,0 +1,7 @@
+staff_id,name,role,commission_pct,hire_date,discount_authority_pct
+S01,Marisol Quintero-Vega,sales,6.0,2019-03-11,10
+S02,Desmond Achterberg,sales,6.0,2022-08-01,10
+S03,Tobias Nakagawa-Reyes,sales,6.0,2025-02-17,10
+D01,Ignacio Bellweather,delivery,0.0,2018-06-04,0
+D02,Kofi Lindqvist,delivery,0.0,2023-10-09,0
+OWN,Owner (demo),owner,0.0,2016-01-15,100

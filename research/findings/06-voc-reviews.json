@@ -1,0 +1,750 @@
+[
+  {
+    "id": "Q-reviews-01",
+    "who": "customer (regional chain, Star Furniture, TX)",
+    "quote": "informed us a price on a new bed frame was good for 2 weeks … That was $2116 more than we were quoted 4 days prior and told the price was good for 2 weeks. The original consultant remembers us and said she would try to get the price down but failed to do so.",
+    "paraphrased": false,
+    "context": "Couple quoted $2,669 on one visit, returned four days later and a different consultant quoted $4,787; bought elsewhere.",
+    "platform": "Trustpilot",
+    "title": "Star Furniture reviews",
+    "url": "https://www.trustpilot.com/review/starfurniture.com",
+    "date": "Sep 3",
+    "engagement": "2025, 1 star",
+    "themes": [
+      "haggling",
+      "staff-discounting"
+    ],
+    "use": [
+      "video-opener",
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-02",
+    "who": "customer (national chain, Rooms To Go)",
+    "quote": "The Rooms to Go salesperson quoted me a different cheaper price in the store. … When I called to order, the price was several hundred dollars higher. … Talked to Management and Corp. But no one would help.",
+    "paraphrased": false,
+    "context": "In-store verbal quote not reproducible when ordering by phone.",
+    "platform": "Trustpilot",
+    "title": "Rooms To Go reviews, search \"quoted\"",
+    "url": "https://www.trustpilot.com/review/roomstogo.com?search=quoted",
+    "date": "Jul 7",
+    "engagement": "2022, 1 star",
+    "themes": [
+      "haggling",
+      "staff-discounting",
+      "owner-approval"
+    ],
+    "use": [
+      "submission-research",
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-03",
+    "who": "customer (national chain, Rooms To Go)",
+    "quote": "Rooms to Go quoted a sale price but wouldn't honor it a couple of days later. Even after talking to the Assistant manager.",
+    "paraphrased": false,
+    "context": "Sale price quoted, lapsed before purchase, manager would not re-approve.",
+    "platform": "Trustpilot",
+    "title": "Rooms To Go reviews, search \"quoted\"",
+    "url": "https://www.trustpilot.com/review/roomstogo.com?search=quoted",
+    "date": "Jul 22",
+    "engagement": "2025, 2 stars",
+    "themes": [
+      "owner-approval",
+      "haggling"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-04",
+    "who": "customer (national chain, Rooms To Go)",
+    "quote": "It was cheaper to buy the items online versus in store. … they quoted us $3,400 for what we just ordered when it was $2,700 online.",
+    "paraphrased": false,
+    "context": "Same order, $700 gap between showroom quote and website.",
+    "platform": "Trustpilot",
+    "title": "Rooms To Go reviews, search \"quoted\"",
+    "url": "https://www.trustpilot.com/review/roomstogo.com?search=quoted",
+    "date": "Mar 7",
+    "engagement": "2025, 1 star",
+    "themes": [
+      "haggling",
+      "map-umrp"
+    ],
+    "use": [
+      "submission-research"
+    ]
+  },
+  {
+    "id": "Q-reviews-05",
+    "who": "customer (national chain, Rooms To Go)",
+    "quote": "different prices in store vs. online, delivery charges changing from one day to the next … sales staff with no discretion to make exceptions or negotiate for a larger sale",
+    "paraphrased": false,
+    "context": "Three-star review listing why the buying experience felt arbitrary.",
+    "platform": "Trustpilot",
+    "title": "Rooms To Go reviews, search \"negotiate\"",
+    "url": "https://www.trustpilot.com/review/roomstogo.com?search=negotiate",
+    "date": "Apr 15",
+    "engagement": "2026, 3 stars",
+    "themes": [
+      "owner-approval",
+      "free-delivery",
+      "haggling"
+    ],
+    "use": [
+      "video-opener",
+      "pitch",
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-06",
+    "who": "customer (national chain, Rooms To Go)",
+    "quote": "but she had to get the manager to waive the $70 delivery fee.",
+    "paraphrased": false,
+    "context": "Salesperson could not waive a $70 delivery fee on her own authority.",
+    "platform": "Trustpilot",
+    "title": "Rooms To Go reviews, search \"manager\"",
+    "url": "https://www.trustpilot.com/review/roomstogo.com?search=manager",
+    "date": "Sep 7",
+    "engagement": "2026, 3 stars",
+    "themes": [
+      "owner-approval",
+      "free-delivery"
+    ],
+    "use": [
+      "product-insight",
+      "pitch"
+    ]
+  },
+  {
+    "id": "Q-reviews-07",
+    "who": "customer (national chain, Ashley HomeStore)",
+    "quote": "The sales person quoted me a price of $499, a \"managers special\" with no other discounts available. … AshleyFurniture.com quoted me $289 - a significant difference. … I showed the salesperson the online price, but they refused to match it, only offering me a price of $450.",
+    "paraphrased": false,
+    "context": "\"Manager's special\" floor price undercut by the retailer's own website.",
+    "platform": "Trustpilot",
+    "title": "Ashley Furniture reviews, search \"quoted\"",
+    "url": "https://www.trustpilot.com/review/www.ashleyfurniture.com?search=quoted",
+    "date": "Sep 30",
+    "engagement": "2020, 1 star",
+    "themes": [
+      "haggling",
+      "staff-discounting",
+      "map-umrp"
+    ],
+    "use": [
+      "video-opener",
+      "submission-research"
+    ]
+  },
+  {
+    "id": "Q-reviews-08",
+    "who": "customer (national chain, Ashley HomeStore)",
+    "quote": "the same products were approximately $200 cheaper EACH online than the prices I had just been given in the store. … the store eventually waived the delivery charge after I told them",
+    "paraphrased": false,
+    "context": "Online price discovered after in-store quote; delivery fee used as the concession.",
+    "platform": "Trustpilot",
+    "title": "Ashley Furniture reviews, search \"manager price\"",
+    "url": "https://www.trustpilot.com/review/www.ashleyfurniture.com?search=manager%20price",
+    "date": "Sep 17",
+    "engagement": "2026, 1 star",
+    "themes": [
+      "free-delivery",
+      "haggling"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-09",
+    "who": "customer (regional chain, Raymour & Flanigan)",
+    "quote": "He went to his boss got me a better price then checked my credit",
+    "paraphrased": false,
+    "context": "Positive review; the \"go to the boss\" step is the price-approval moment.",
+    "platform": "Trustpilot",
+    "title": "Raymour & Flanigan reviews, search \"price\"",
+    "url": "https://www.trustpilot.com/review/www.raymourflanigan.com?search=price",
+    "date": "Oct 11",
+    "engagement": "2026, 5 stars",
+    "themes": [
+      "owner-approval",
+      "haggling"
+    ],
+    "use": [
+      "video-opener",
+      "pitch"
+    ]
+  },
+  {
+    "id": "Q-reviews-10",
+    "who": "customer (regional chain, Raymour & Flanigan)",
+    "quote": "Once during final pricing, we had to speak with the manager. … He was rude and disrespectful simply because my husband and I wanted the best price possible.",
+    "paraphrased": false,
+    "context": "Five-star review of the salesperson, soured by the manager at the approval step.",
+    "platform": "Trustpilot",
+    "title": "Raymour & Flanigan reviews, search \"manager\"",
+    "url": "https://www.trustpilot.com/review/www.raymourflanigan.com?search=manager",
+    "date": "Oct 7",
+    "engagement": "2026, 5 stars",
+    "themes": [
+      "owner-approval",
+      "haggling"
+    ],
+    "use": [
+      "video-opener",
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-11",
+    "who": "customer (national chain, Bob's Discount Furniture)",
+    "quote": "They don't know how to negotiate discount prices, they only gave me $50 off a $1400 dining room set.",
+    "paraphrased": false,
+    "context": "Customer expected a negotiation at a chain that advertises fixed low prices.",
+    "platform": "Trustpilot",
+    "title": "Bob's Discount Furniture reviews, search \"negotiate\"",
+    "url": "https://www.trustpilot.com/review/www.mybobs.com?search=negotiate",
+    "date": "Mar 21",
+    "engagement": "2019, 1 star",
+    "themes": [
+      "haggling"
+    ],
+    "use": [
+      "submission-research"
+    ]
+  },
+  {
+    "id": "Q-reviews-12",
+    "who": "customer (national chain, Bob's Discount Furniture)",
+    "quote": "they worked us a pretty decent discount and then will willing to negotiate even a little more from there",
+    "paraphrased": false,
+    "context": "Positive review; negotiation itself is part of the praise.",
+    "platform": "Trustpilot",
+    "title": "Bob's Discount Furniture reviews, search \"negotiate\"",
+    "url": "https://www.trustpilot.com/review/www.mybobs.com?search=negotiate",
+    "date": "Mar 25",
+    "engagement": "2019, 5 stars",
+    "themes": [
+      "haggling"
+    ],
+    "use": [
+      "pitch"
+    ]
+  },
+  {
+    "id": "Q-reviews-13",
+    "who": "customer (national chain, Bob's Discount Furniture)",
+    "quote": "it was a hassle across the board to negotiate, despite the fact that we were buying an almost $4000 mattress.",
+    "paraphrased": false,
+    "context": "Big-ticket buyer expected flexibility proportional to ticket size.",
+    "platform": "Trustpilot",
+    "title": "Bob's Discount Furniture reviews, search \"negotiate\"",
+    "url": "https://www.trustpilot.com/review/www.mybobs.com?search=negotiate",
+    "date": "May 16",
+    "engagement": "2025, 2 stars",
+    "themes": [
+      "haggling"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-14",
+    "who": "customer (national chain, Bob's Discount Furniture)",
+    "quote": "they were like it's a new policy and we cannot waive that fee.",
+    "paraphrased": false,
+    "context": "$150 haul-away fee; staff cite policy rather than authority.",
+    "platform": "Trustpilot",
+    "title": "Bob's Discount Furniture reviews, search \"delivery fee\"",
+    "url": "https://www.trustpilot.com/review/www.mybobs.com?search=delivery%20fee",
+    "date": "Aug 22",
+    "engagement": "2026, 1 star",
+    "themes": [
+      "free-delivery",
+      "owner-approval"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-15",
+    "who": "customer (national chain, Bob's Discount Furniture)",
+    "quote": "the fee goes UP if you spend more.",
+    "paraphrased": false,
+    "context": "Delivery fee scaled with order size, which customers read as a penalty for buying more.",
+    "platform": "Trustpilot",
+    "title": "Bob's Discount Furniture reviews, search \"delivery fee\"",
+    "url": "https://www.trustpilot.com/review/www.mybobs.com?search=delivery%20fee",
+    "date": "Sep 2",
+    "engagement": "2026, 1 star",
+    "themes": [
+      "free-delivery"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-16",
+    "who": "customer (regional chain, Living Spaces, CA-based)",
+    "quote": "There is no additional discounts provided and they don't negotiate on delivery charges even if you buy a bulk load of things.",
+    "paraphrased": false,
+    "context": "Four-star review; the only complaint is zero flexibility on delivery for a large order.",
+    "platform": "Trustpilot",
+    "title": "Living Spaces reviews, search \"salesperson\"",
+    "url": "https://www.trustpilot.com/review/www.livingspaces.com?search=salesperson",
+    "date": "Nov 28",
+    "engagement": "2021, 4 stars",
+    "themes": [
+      "free-delivery",
+      "haggling"
+    ],
+    "use": [
+      "submission-research",
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-17",
+    "who": "customer (regional chain, Mathis Brothers, OK/CA)",
+    "quote": "Free delivery is a total lie. I asked twice, both the store manager and salesman said delivery was free.",
+    "paraphrased": false,
+    "context": "$179 delivery charge appeared after the customer left the store.",
+    "platform": "Trustpilot",
+    "title": "Mathis Brothers reviews, search \"delivery\"",
+    "url": "https://www.trustpilot.com/review/www.mathisbrothers.com?search=delivery",
+    "date": "Apr 26",
+    "engagement": "2025, 1 star",
+    "themes": [
+      "free-delivery",
+      "owner-approval"
+    ],
+    "use": [
+      "video-opener",
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-18",
+    "who": "customer (regional chain, Jerome's Furniture, CA)",
+    "quote": "He just kept telling me he gave me a discount and to put my card in. … I was paying more than the actual",
+    "paraphrased": false,
+    "context": "Salesperson asserted a discount verbally; the written total did not reflect it.",
+    "platform": "Trustpilot",
+    "title": "Jerome's reviews, search \"price\"",
+    "url": "https://www.trustpilot.com/review/jeromes.com?search=price",
+    "date": "Aug 29",
+    "engagement": "2024, 1 star",
+    "themes": [
+      "staff-discounting",
+      "haggling"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-19",
+    "who": "customer (independent, Design Furnishings, West Sacramento, CA)",
+    "quote": "Paraphrase: called the store three or four times to confirm an ottoman's price and got a different quote each time; the final emailed quote was about $100 higher, attributed to shipping. Verbatim fragments: \"That's Not How You Do Business\" (headline); the business \"came off to me as charlatans\".",
+    "paraphrased": true,
+    "context": "Independent CA store; one-star on service inside a 198-review 5.0 average.",
+    "platform": "CustomerLobby",
+    "title": "Design Furnishings review \"That's Not How You Do Business\"",
+    "url": "https://www.customerlobby.com/reviews/20453/design-furnishings/review/51158541",
+    "date": "Sep 18",
+    "engagement": "2017, 1 star (service)",
+    "themes": [
+      "staff-discounting",
+      "free-delivery",
+      "haggling"
+    ],
+    "use": [
+      "submission-research",
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-20",
+    "who": "customer (independent, Destiny Furniture, Scarborough ON)",
+    "quote": "Despite \"Free Delivery\" being clearly marked on my receipt, I was later asked to pay additional charges.",
+    "paraphrased": false,
+    "context": "Receipt had free delivery checked and signed; a fee was demanded later for a downtown address.",
+    "platform": "PissedConsumer",
+    "title": "Destiny Furniture review",
+    "url": "https://www.pissedconsumer.com/destiny-furniture/RT-F.html",
+    "date": "Feb 7",
+    "engagement": "2026",
+    "themes": [
+      "free-delivery"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-21",
+    "who": "customer (online/outlet, Discount Quality Furniture, Thomasville NC)",
+    "quote": "they actually quote you and say your neighbor (whom did also ask for a quote jic) a different number.",
+    "paraphrased": false,
+    "context": "Two households requested quotes on the same bed and received different prices.",
+    "platform": "ComplaintsBoard",
+    "title": "Discount Quality Furniture complaints",
+    "url": "https://www.complaintsboard.com/bycompany/discount-quality-furniture-a103652.html",
+    "date": "Oct 18",
+    "engagement": "2011",
+    "themes": [
+      "staff-discounting",
+      "haggling"
+    ],
+    "use": [
+      "submission-research"
+    ]
+  },
+  {
+    "id": "Q-reviews-22",
+    "who": "customer (independent, Gallery Furniture, Houston TX)",
+    "quote": "Even though you are supposed to receive \"free delivery\" on all purchases over $1000.\" … \"'Premium Service' fees ($350) on contract",
+    "paraphrased": false,
+    "context": "Reviewer says $150 of the $350 fee was refunded after a manager discussion.",
+    "platform": "Trustpilot",
+    "title": "Gallery Furniture reviews, search \"price\"",
+    "url": "https://www.trustpilot.com/review/galleryfurniture.com?search=price",
+    "date": "May 26",
+    "engagement": "2020, 1 star",
+    "themes": [
+      "free-delivery",
+      "owner-approval"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-23",
+    "who": "salesperson (regional chain, Havertys, Winter Garden FL)",
+    "quote": "Salespeople do not get paid for their sales since manager heavily discounts damaged pieces so customer keeps them.",
+    "paraphrased": false,
+    "context": "Manager markdowns to save a delivery wipe out the salesperson's commission.",
+    "platform": "CareerBliss",
+    "title": "Havertys employee reviews",
+    "url": "https://www.careerbliss.com/havertys/reviews/",
+    "date": "undated",
+    "engagement": "category ratings avg 1.75/5",
+    "themes": [
+      "commission-conflict",
+      "staff-discounting",
+      "aged-stock"
+    ],
+    "use": [
+      "video-opener",
+      "product-insight",
+      "pitch"
+    ]
+  },
+  {
+    "id": "Q-reviews-24",
+    "who": "manager (regional chain, Havertys, Orlando FL; Sales Manager)",
+    "quote": "Successful delivery of all furniture on the receipt is how salespeople make commission",
+    "paraphrased": false,
+    "context": "Commission is paid on delivered revenue, not written sales.",
+    "platform": "CareerBliss",
+    "title": "Havertys employee reviews",
+    "url": "https://www.careerbliss.com/havertys/reviews/",
+    "date": "undated",
+    "engagement": "category ratings avg 2.0/5",
+    "themes": [
+      "commission-conflict"
+    ],
+    "use": [
+      "submission-research",
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-25",
+    "who": "salesperson (regional chain, Havertys, Kissimmee FL)",
+    "quote": "Salespersons lose all commission on returns, broken furniture deliveries … Protection Plans have to be sold with every sale",
+    "paraphrased": false,
+    "context": "Reviewer lists what erases or conditions pay.",
+    "platform": "CareerBliss",
+    "title": "Havertys employee reviews",
+    "url": "https://www.careerbliss.com/havertys/reviews/",
+    "date": "undated",
+    "engagement": "category ratings avg 2.25/5",
+    "themes": [
+      "commission-conflict"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-26",
+    "who": "salesperson (regional chain, Havertys, Winter Garden FL)",
+    "quote": "Commission pay changes yearly making it harder to earn the same amount … It is harder to hit unattainable required sales quotas",
+    "paraphrased": false,
+    "context": "Plan changes experienced as pay cuts.",
+    "platform": "CareerBliss",
+    "title": "Havertys employee reviews",
+    "url": "https://www.careerbliss.com/havertys/reviews/",
+    "date": "undated",
+    "engagement": "category ratings avg 1.6/5",
+    "themes": [
+      "commission-conflict"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-27",
+    "who": "salesperson (national chain, Rooms To Go, Duluth GA)",
+    "quote": "Straight commission. Work every weekend. … letting customer walk because they do not have the entire deposit for financing is silly.",
+    "paraphrased": false,
+    "context": "Salesperson wants latitude at the close that policy denies.",
+    "platform": "CareerBliss",
+    "title": "Rooms To Go employee reviews",
+    "url": "https://www.careerbliss.com/rooms-to-go/reviews/",
+    "date": "undated",
+    "engagement": "category ratings 1–2/5",
+    "themes": [
+      "commission-conflict",
+      "owner-approval"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-28",
+    "who": "salesperson (high-end multi-store retailer, Space Furniture, Australia; Sales Consultant, former)",
+    "quote": "The commission structure is based on \"margins\". … The more the product is discounted this affects your commission. … Very poor commission structure with expectations to sell high volume product and you are not rewarded accordingly.",
+    "paraphrased": false,
+    "context": "Margin-based commission turns every discount into a personal pay cut.",
+    "platform": "Seek",
+    "title": "Space Furniture employee reviews",
+    "url": "https://au.seek.com/companies/space-furniture-804850",
+    "date": "Mar 2020",
+    "engagement": "1 star",
+    "themes": [
+      "commission-conflict",
+      "staff-discounting"
+    ],
+    "use": [
+      "submission-research",
+      "product-insight",
+      "pitch"
+    ]
+  },
+  {
+    "id": "Q-reviews-29",
+    "who": "salesperson (high-end multi-store retailer, Space Furniture, Australia; Sales Consultant, former)",
+    "quote": "Great discount for staff - 50% off products. … Poor discounts for trade clients at 15%",
+    "paraphrased": false,
+    "context": "Discount tiers (staff vs trade) are a visible, contested policy.",
+    "platform": "Seek",
+    "title": "Space Furniture employee reviews",
+    "url": "https://au.seek.com/companies/space-furniture-804850",
+    "date": "May 2020",
+    "engagement": "1 star",
+    "themes": [
+      "staff-discounting"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-30",
+    "who": "salesperson (national chain, Bob's Discount Furniture, Brooklyn NY; Sales Representative)",
+    "quote": "with furniture just because you're the hardest worker doesn't mean you get the best pay … sometimes it's just the luck of the up",
+    "paraphrased": false,
+    "context": "Commission outcome depends on which customer walks in (\"the up\").",
+    "platform": "CareerBliss",
+    "title": "Bob's Discount Furniture employee reviews",
+    "url": "https://www.careerbliss.com/bobs-discount-furniture/reviews/",
+    "date": "undated",
+    "engagement": "category ratings avg 4.5/5",
+    "themes": [
+      "commission-conflict"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-31",
+    "who": "salesperson (national chain, Ashley Furniture, East Peoria IL; listed as \"Ashley Furniture Employee\", text is about sales)",
+    "quote": "the higher ups in the company refuse to send you commission payouts and also change rules daily.",
+    "paraphrased": false,
+    "context": "Commission rules perceived as unstable and opaque.",
+    "platform": "CareerBliss",
+    "title": "Ashley Furniture employee reviews",
+    "url": "https://www.careerbliss.com/ashley-furniture/reviews/",
+    "date": "undated",
+    "engagement": "category ratings avg 2.9/5",
+    "themes": [
+      "commission-conflict",
+      "tools-frustration"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-32",
+    "who": "salesperson (national chain, La-Z-Boy Furniture Galleries, Bel Air MD; listed as \"La-Z-Boy Employee\")",
+    "quote": "there is stress because now the pay is commission based, and there is no teamwork.",
+    "paraphrased": false,
+    "context": "Store converted to commission pay; reviewer rates every category 1/5.",
+    "platform": "CareerBliss",
+    "title": "La-Z-Boy employee reviews",
+    "url": "https://www.careerbliss.com/la-z-boy/reviews/",
+    "date": "undated",
+    "engagement": "category ratings 1.0/5",
+    "themes": [
+      "commission-conflict"
+    ],
+    "use": [
+      "submission-research"
+    ]
+  },
+  {
+    "id": "Q-reviews-33",
+    "who": "salesperson (national chain, La-Z-Boy, Milford CT; Sales Associate)",
+    "quote": "we don't make a commission. It's relaxing for the customer and for the associate.",
+    "paraphrased": false,
+    "context": "Non-commission store; useful contrast for why pressure to discount is lower there.",
+    "platform": "CareerBliss",
+    "title": "La-Z-Boy employee reviews",
+    "url": "https://www.careerbliss.com/la-z-boy/reviews/",
+    "date": "undated",
+    "engagement": "category ratings avg 4.1/5",
+    "themes": [
+      "commission-conflict"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-34",
+    "who": "salesperson (regional chain, Mathis Home, OK/CA; Sales Associate)",
+    "quote": "They have a draw against commission pay structure, so you have to sell a certain amount to receive a commission check.",
+    "paraphrased": false,
+    "context": "Glassdoor review titled \"Commission sales\"; text captured from the search index because glassdoor.de returned 403 on direct fetch.",
+    "platform": "Glassdoor",
+    "title": "Mathis Home review \"Commission sales\"",
+    "url": "https://www.glassdoor.de/Bewertungen/Bewertungen-Mathis-Home-E391865-RVW77803734.htm",
+    "date": "2026",
+    "engagement": "4 stars",
+    "themes": [
+      "commission-conflict"
+    ],
+    "use": [
+      "submission-research"
+    ]
+  },
+  {
+    "id": "Q-reviews-35",
+    "who": "salesperson (regional chain, The RoomStore; Sales Consultant)",
+    "quote": "commission only which can be very trying during slow times\" … \"if you make a mistake, it comes out of your pay",
+    "paraphrased": false,
+    "context": "Glassdoor review; captured from the search index, nl.glassdoor.be returned 403 on direct fetch.",
+    "platform": "Glassdoor",
+    "title": "The RoomStore review",
+    "url": "https://nl.glassdoor.be/Reviews/Werknemer-review-The-RoomStore-E230043-RVW7188258.htm",
+    "date": "undated",
+    "engagement": "",
+    "themes": [
+      "commission-conflict"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-36",
+    "who": "salesperson (national chain, Ashley Furniture HomeStore)",
+    "quote": "Pay is not great and kept getting worse used to be 10/hr plus commission but they make it so you hardly get any commission",
+    "paraphrased": false,
+    "context": "Glassdoor review listing; captured from search index, glassdoor.com returned a CAPTCHA page on direct fetch.",
+    "platform": "Glassdoor",
+    "title": "Ashley reviews",
+    "url": "https://www.glassdoor.co.uk/Reviews/Ashley-Reviews-E6907785.htm",
+    "date": "undated",
+    "engagement": "",
+    "themes": [
+      "commission-conflict"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-37",
+    "who": "salesperson (regional chain, Living Spaces, CA)",
+    "quote": "Paraphrase: pressure to sell a minimum of $100,000 per month with termination if the goal is missed; the pay structure changes almost monthly.",
+    "paraphrased": true,
+    "context": "Glassdoor review titled \"Stay AWAY from this company\"; glassdoor.nl returned 403 on direct fetch, so only the search summary is available.",
+    "platform": "Glassdoor",
+    "title": "Living Spaces review",
+    "url": "https://www.glassdoor.nl/Reviews/Werknemer-review-Living-Spaces-E390861-RVW921568.htm",
+    "date": "undated",
+    "engagement": "",
+    "themes": [
+      "commission-conflict",
+      "tools-frustration"
+    ],
+    "use": [
+      "product-insight"
+    ]
+  },
+  {
+    "id": "Q-reviews-38",
+    "who": "owner (independent retailer quoted in trade press)",
+    "quote": "We pay 3 percent on closeouts – I gave up margin, so they give up margin.\" … \"We do a weekly draw and pay commission monthly. It keeps them hungry.",
+    "paraphrased": false,
+    "context": "Owners explaining commission design; included because it states the owner-side logic behind Q-reviews-23 and 28.",
+    "platform": "Home Furnishings Business",
+    "title": "\"Balancing Act\"",
+    "url": "https://hfbusiness.com/CurrentIssue/CurrentIssueModule/ArticleId/10207/balancing-act",
+    "date": "Jan 17",
+    "engagement": "2014",
+    "themes": [
+      "commission-conflict",
+      "aged-stock"
+    ],
+    "use": [
+      "submission-research",
+      "pitch"
+    ]
+  },
+  {
+    "id": "Q-reviews-39",
+    "who": "other (sales trainer quoted in trade press)",
+    "quote": "If salespeople get behind on their draw, they get crazed, and customers pick up on that.",
+    "paraphrased": false,
+    "context": "Same article; the draw is the mechanism that pushes salespeople to close at any price.",
+    "platform": "Home Furnishings Business",
+    "title": "\"Balancing Act\"",
+    "url": "https://hfbusiness.com/CurrentIssue/CurrentIssueModule/ArticleId/10207/balancing-act",
+    "date": "Jan 17",
+    "engagement": "2014",
+    "themes": [
+      "commission-conflict"
+    ],
+    "use": [
+      "video-opener",
+      "pitch"
+    ]
+  }
+]

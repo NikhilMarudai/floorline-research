@@ -1,0 +1,18 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-25T13:45:00Z"},
+  "lists": "css",
+  "title": "PriceLine Deck",
+  "order": ["cover", "whynow", "customer", "problem", "quote", "solution", "product", "evidence", "market", "competition", "pricing", "gtm", "vision", "risks"],
+  "sections": {
+    "s1": {"description": "Why now, who it is for, and what goes wrong today.", "start": "cover"},
+    "s2": {"description": "What PriceLine does and what backs it up.", "start": "solution"},
+    "s3": {"description": "Market, competition, pricing and how we reach stores.", "start": "market"},
+    "s4": {"description": "Where it goes and what could go wrong.", "start": "vision"}
+  },
+  "faces": {
+    "source-serif-4": {"family": "Source Serif 4", "href": "https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;600&display=swap"},
+    "dm-sans": {"family": "DM Sans", "href": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&display=swap"}
+  },
+  "designSystems": []
+}

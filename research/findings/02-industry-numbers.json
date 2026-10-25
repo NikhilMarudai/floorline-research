@@ -1,0 +1,441 @@
+[
+  {
+    "id": "F-industry-01",
+    "claim": "US furniture-store establishments; 91.5% have under 20 employees",
+    "value": "21964 establishments; 194508 employees; <10 emp 77.4%; <20 emp 91.5%",
+    "unit": "establishments",
+    "year": 2023,
+    "source_title": "County Business Patterns 2023 (NAICS 442110)",
+    "source_url": "https://www2.census.gov/programs-surveys/cbp/datasets/2023/cbp23us.zip",
+    "publisher": "US Census Bureau",
+    "confidence": "high",
+    "use": [
+      "video-opener",
+      "submission-research"
+    ]
+  },
+  {
+    "id": "F-industry-02",
+    "claim": "California furniture stores; 94% under 20 employees",
+    "value": "2203 establishments; 18322 employees; <10 emp 83.5%; <20 emp 93.9%; BLS CES NAICS 4491 CA employment 44.4k avg 2024",
+    "unit": "establishments",
+    "year": 2023,
+    "source_title": "County Business Patterns 2023 state file; FRED SMU06000004244910001",
+    "source_url": "https://www2.census.gov/programs-surveys/cbp/datasets/2023/cbp23st.zip",
+    "publisher": "US Census Bureau; BLS via FRED",
+    "confidence": "high",
+    "use": [
+      "submission-research",
+      "pitch"
+    ]
+  },
+  {
+    "id": "F-industry-03",
+    "claim": "US furniture-store firms: 90% under 20 employees, avg $1.41M revenue; firms <500 employees hold 45% of receipts",
+    "value": "12708 firms; 22286 establishments; $76.38B receipts; <20-emp firms 11441 (90.0%), $1.41M avg receipts, 1.05 estab/firm; <500-emp firms 99.4% of firms, 45.1% of receipts; 71 firms 500+ take 54.9%",
+    "unit": "firms; USD",
+    "year": 2022,
+    "source_title": "Statistics of U.S. Businesses 2022",
+    "source_url": "https://www2.census.gov/programs-surveys/susb/tables/2022/us_state_6digitnaics_2022.txt",
+    "publisher": "US Census Bureau",
+    "confidence": "high",
+    "use": [
+      "video-opener",
+      "submission-research",
+      "pitch"
+    ]
+  },
+  {
+    "id": "F-industry-04",
+    "claim": "California furniture-store firms: 90% under 20 employees, avg $1.33M revenue",
+    "value": "1390 firms; 2223 establishments; $7.41B receipts; <20-emp firms 1252 (90.1%), $1.33M avg",
+    "unit": "firms; USD",
+    "year": 2022,
+    "source_title": "Statistics of U.S. Businesses 2022 (FIPS 06)",
+    "source_url": "https://www2.census.gov/programs-surveys/susb/tables/2022/us_state_6digitnaics_2022.txt",
+    "publisher": "US Census Bureau",
+    "confidence": "high",
+    "use": [
+      "submission-research",
+      "pitch"
+    ]
+  },
+  {
+    "id": "F-industry-05",
+    "claim": "US furniture-store sales 2024; furniture + home furnishings stores sales 2024",
+    "value": "NAICS 4421: $68.9B (2024), $69.2B (2025); NAICS 442: $125.0B (2024), $127.3B (2025); ARTS 2022 benchmark 442 $143.6B, 4421 $79.9B",
+    "unit": "USD billions",
+    "year": 2024,
+    "source_title": "Census Monthly Retail Trade via FRED (MRTSSM4421USN, MRTSSM442USN); ARTS 2022 sales.xlsx",
+    "source_url": "https://fred.stlouisfed.org/series/MRTSSM4421USN",
+    "publisher": "US Census Bureau via FRED",
+    "confidence": "high",
+    "use": [
+      "video-opener",
+      "submission-research"
+    ]
+  },
+  {
+    "id": "F-industry-06",
+    "claim": "IBISWorld furniture-store business count and market size (broader definition)",
+    "value": "55045 businesses, $169.8B (2025 snapshot); 55457 businesses, $166.8B (2026 page); California 9020 establishments, 50189 workers (2026)",
+    "unit": "businesses; USD",
+    "year": 2025,
+    "source_title": "Furniture Stores in the US",
+    "source_url": "https://www.ibisworld.com/united-states/number-of-businesses/furniture-stores/1016/",
+    "publisher": "IBISWorld",
+    "confidence": "medium",
+    "use": [
+      "submission-research"
+    ]
+  },
+  {
+    "id": "F-industry-07",
+    "claim": "Gross margin of furniture and home furnishings stores",
+    "value": "51.0% (2022); 51.0 (2021); 47.4 (2020); 48.6 (2019); all retail ex-auto 33.4%",
+    "unit": "percent of sales",
+    "year": 2022,
+    "source_title": "ARTS 2022 gross margin as a percentage of sales (gmper.xlsx)",
+    "source_url": "https://www2.census.gov/programs-surveys/arts/tables/2022/gmper.xlsx",
+    "publisher": "US Census Bureau",
+    "confidence": "high",
+    "use": [
+      "video-opener",
+      "layer1-spec",
+      "submission-research"
+    ]
+  },
+  {
+    "id": "F-industry-08",
+    "claim": "Independent-store survey medians: gross margin, turns, close ratio, payroll, net profit",
+    "value": "GM 50% (2019), 46.5% (2016), 43% (2004); turns 3 (2019), 4.0 (2016); close ratio 22% (2016), 36% (2004); payroll 17% + benefits 3% of revenue, sales/salesperson $434782, net return on sales 3% (2004); $200/sq ft, 30000 sq ft (2016)",
+    "unit": "mixed",
+    "year": 2019,
+    "source_title": "Furniture Store Performance Reports 2019, 2016, 2004",
+    "source_url": "https://www.furnituretoday.com/research-and-analysis/2019-furniture-store-performance-report",
+    "publisher": "Furniture Today",
+    "confidence": "medium",
+    "use": [
+      "submission-research",
+      "layer1-spec",
+      "pitch"
+    ]
+  },
+  {
+    "id": "F-industry-09",
+    "claim": "Public furniture retailers gross margin and selling expense",
+    "value": "Havertys 2024 GM 60.7%, selling exp 14.9% of sales, 129 stores avg 35000 sq ft, commissioned sales team; Ethan Allen FY2025 GM 60.5%, retail op margin 3.8%; La-Z-Boy FY2025 GM 43.9%, retail op margin 11.7%, 203/366 galleries company-owned",
+    "unit": "percent",
+    "year": 2025,
+    "source_title": "Havertys, Ethan Allen, La-Z-Boy 10-Ks",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/216085/000162828025010869/hvt-20241231.htm",
+    "publisher": "SEC EDGAR",
+    "confidence": "high",
+    "use": [
+      "submission-research",
+      "pitch"
+    ]
+  },
+  {
+    "id": "F-industry-10",
+    "claim": "Inventory turns about 3 per year (~120 days of stock)",
+    "value": "ARTS 2022 implied 3.1x (inventory $22.5B, sales $143.6B, 51% GM); Havertys 2024 3.2x; Ethan Allen FY2025 1.7x; FT median 3 (2019), 4.0 (2016)",
+    "unit": "turns per year",
+    "year": 2022,
+    "source_title": "ARTS 2022 invent.xlsx and sales.xlsx; 10-Ks; Furniture Today",
+    "source_url": "https://www2.census.gov/programs-surveys/arts/tables/2022/invent.xlsx",
+    "publisher": "US Census Bureau; SEC; Furniture Today",
+    "confidence": "high",
+    "use": [
+      "layer1-spec",
+      "submission-research",
+      "demo-data"
+    ]
+  },
+  {
+    "id": "F-industry-11",
+    "claim": "Markdowns cost US non-grocery retailers ~$300B (12% of sales); 53% of unplanned markdowns from inventory misjudgment",
+    "value": "$300B; 12% of sales; 30% average discount assumed; 53% from inventory misjudgment; 60% full-price sell-through",
+    "unit": "USD; percent",
+    "year": 2018,
+    "source_title": "US Retailer Survey: Revealing the Hidden Costs of Poor Inventory Management",
+    "source_url": "https://coresight.com/research/us-retailer-survey-revealing-the-hidden-costs-of-poor-inventory-management-2/",
+    "publisher": "Coresight Research / Celect",
+    "confidence": "medium",
+    "use": [
+      "submission-research",
+      "pitch"
+    ]
+  },
+  {
+    "id": "F-industry-12",
+    "claim": "Inventory carrying cost convention",
+    "value": "20-30% of inventory value per year; example 25% = capital 10 + storage 7 + insurance/taxes 2 + obsolescence 6",
+    "unit": "percent per year",
+    "year": 2024,
+    "source_title": "Carrying Costs glossary (attributes APQC/ISM); Wikipedia Carrying cost",
+    "source_url": "https://sixsigmadsi.com/glossary/carrying-costs/",
+    "publisher": "Six Sigma Development Solutions; Wikipedia",
+    "confidence": "low",
+    "use": [
+      "layer1-spec",
+      "submission-research"
+    ]
+  },
+  {
+    "id": "F-industry-13",
+    "claim": "Pay models for furniture salespeople",
+    "value": "2016: ~50% commission-only, 21% hourly+commission, 17% salary+commission; 2019: hourly+commission 29%, salary+commission 28%, salary-only 28%",
+    "unit": "percent of stores",
+    "year": 2019,
+    "source_title": "Furniture Store Performance Reports 2016, 2019",
+    "source_url": "https://www.furnituretoday.com/business-news/close-ratios-and-stock-turns-decrease-gross-margin-increases",
+    "publisher": "Furniture Today",
+    "confidence": "medium",
+    "use": [
+      "submission-research",
+      "pitch"
+    ]
+  },
+  {
+    "id": "F-industry-14",
+    "claim": "Commission rates typically 4-8% of the sale; quoted plan 6% (3% on closeouts); draw-against-commission common",
+    "value": "4-8%, up to 10% (career guide); 6% after $30k monthly minimum, 3% on closeouts (DoMa, 2014); $800k/yr target earning $40-50k (~5-6%); postings: 12-week guarantee then draw, $14/hr + draw",
+    "unit": "percent of sale",
+    "year": 2014,
+    "source_title": "Balancing Act (HFB); Shmoop; job postings",
+    "source_url": "https://hfbusiness.com/CurrentIssue/CurrentIssueModule/ArticleId/10207/balancing-act",
+    "publisher": "Home Furnishings Business; Shmoop; Paylocity; Express Employment",
+    "confidence": "medium",
+    "use": [
+      "layer1-spec",
+      "submission-research",
+      "demo-data"
+    ]
+  },
+  {
+    "id": "F-industry-15",
+    "claim": "Selling expense share of sales",
+    "value": "Havertys 2024 selling expense 14.9% of sales (mostly sales compensation); independents payroll 17% + benefits 3% (2004 median)",
+    "unit": "percent of sales",
+    "year": 2024,
+    "source_title": "Havertys 10-K FY2024; Furniture Today 2005",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/216085/000162828025010869/hvt-20241231.htm",
+    "publisher": "SEC EDGAR; Furniture Today",
+    "confidence": "high",
+    "use": [
+      "demo-data",
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-industry-16",
+    "claim": "Revenue-based commission rewards discounting",
+    "value": "At 50% GM and 6% commission on a $2000 ticket: 10% off cuts rep pay 10% ($120 to $108) but store gross profit 20% ($1000 to $800); 20% off: rep -20%, store -40%",
+    "unit": "arithmetic",
+    "year": 2026,
+    "source_title": "Paying sales commissions on revenues vs profit; Commission structure based on gross profit",
+    "source_url": "https://www.peaksalesrecruiting.com/blog/paying-sales-commissions-on-revenues-vs-profit/",
+    "publisher": "Peak Sales Recruiting; Qobra",
+    "confidence": "medium",
+    "use": [
+      "pitch",
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-industry-17",
+    "claim": "Furniture hagglers succeed 71% of the time (2009); furniture among top-success categories (2013)",
+    "value": "2009: 66%+ negotiated in past 6 months; furniture success 71%, appliances 75%; 2013: 48% haggled in 3 years, 89% of hagglers won at least once",
+    "unit": "percent",
+    "year": 2009,
+    "source_title": "Consumer Reports haggling surveys 2009 and 2013",
+    "source_url": "https://www.consumerreports.org/media-room/press-releases/2009/05/consumer-reports-money-special-publication-haggling-for-everything-is-new-rule-in-a-down-economy",
+    "publisher": "Consumer Reports",
+    "confidence": "high",
+    "use": [
+      "video-opener",
+      "submission-research"
+    ]
+  },
+  {
+    "id": "F-industry-18",
+    "claim": "Average saving from haggling over furniture",
+    "value": "$300 average (shared with health-related charges in the release); appliances $200",
+    "unit": "USD per purchase",
+    "year": 2013,
+    "source_title": "Consumer Reports haggling survey press release",
+    "source_url": "https://www.consumerreports.org/media-room/press-releases/2013/07/my-entry",
+    "publisher": "Consumer Reports",
+    "confidence": "medium",
+    "use": [
+      "video-opener",
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-industry-19",
+    "claim": "60% of 2025 furniture buyers felt they paid more than acceptable",
+    "value": "60% overall; dining tables 66%, sofas 62%, mattresses 61%; n=2000 US adults",
+    "unit": "percent",
+    "year": 2025,
+    "source_title": "Side effect of tariff fatigue: furniture shoppers are trading down (L.E.K. survey)",
+    "source_url": "https://www.designerstoday.com/furniture/side-effect-of-tariff-fatigue-furniture-shoppers-are-trading-down-survey-finds",
+    "publisher": "Designers Today / L.E.K. Consulting",
+    "confidence": "medium",
+    "use": [
+      "pitch",
+      "submission-research"
+    ]
+  },
+  {
+    "id": "F-industry-20",
+    "claim": "Delivery cost drives defection among big-item furniture buyers",
+    "value": "56% would avoid a boutique retailer over shipping cost; ~40% would switch to Amazon/Wayfair without free shipping; 27% abandoned a cart over delivery expense (n=330, 2019); 47% abandoned a home-furnishing purchase, 37% of them citing delivery cost (n=2094, 2022)",
+    "unit": "percent",
+    "year": 2019,
+    "source_title": "uShip/YouGov survey; PYMNTS/Elastic Path study",
+    "source_url": "https://about.uship.com/uncategorized/impatient-customers-paying-nothing-for-something-heavy-goods-shippers-face-same-e-commerce-delivery-pressures-as-smaller-stuff/",
+    "publisher": "uShip; PYMNTS",
+    "confidence": "medium",
+    "use": [
+      "pitch",
+      "submission-research"
+    ]
+  },
+  {
+    "id": "F-industry-21",
+    "claim": "Consumers accept only 1-5% delivery surcharge for faster service",
+    "value": "1-5% typical; resistance above 10%; mattresses 27.4% and sofas 27% most likely to pay extra; n=515",
+    "unit": "percent of price",
+    "year": 2021,
+    "source_title": "Delivery fees for faster service resonate best with bigger items",
+    "source_url": "https://www.furnituretoday.com/research-and-analysis/delivery-fees-for-faster-service-resonate-best-with-bigger-items",
+    "publisher": "Furniture Today",
+    "confidence": "medium",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-industry-22",
+    "claim": "Havertys delivery fees recover only 79% of delivery cost",
+    "value": "Delivery cost $37.1M (5.1% of $722.9M sales) vs delivery fee revenue $29.3M (4.0%); net subsidy 1.1% of sales; warehouse/delivery/transport $60.8M (8.4%); in-house delivery",
+    "unit": "USD; percent of sales",
+    "year": 2024,
+    "source_title": "Havertys 10-K FY2024, Note 2",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/216085/000162828025010869/hvt-20241231.htm",
+    "publisher": "SEC EDGAR",
+    "confidence": "high",
+    "use": [
+      "video-opener",
+      "layer1-spec",
+      "submission-research"
+    ]
+  },
+  {
+    "id": "F-industry-23",
+    "claim": "Delivery income adds 1-2% to the bottom line; charging is the norm; 20-30% pick up",
+    "value": "1-2% of bottom line; ~25 years of charging norm; 20-30% customer pickup",
+    "unit": "percent",
+    "year": 2016,
+    "source_title": "Delivery on the House",
+    "source_url": "https://hfbusiness.com/CurrentIssue/CurrentIssueModule/ArticleID/13923/delivery-on-the-house",
+    "publisher": "Home Furnishings Business",
+    "confidence": "medium",
+    "use": [
+      "layer1-spec",
+      "pitch"
+    ]
+  },
+  {
+    "id": "F-industry-24",
+    "claim": "Delivery price points and crew cost inputs",
+    "value": "White-glove from $59 (Ethan Allen) to $199 (RH); last-mile revenue <$90/shipment, bedroom set $50 to $250 with setup; 6-12 stops/day; helper wages $17.60-18/hr; two-person crew with truck $100-200/hr (moving marketplaces)",
+    "unit": "USD",
+    "year": 2024,
+    "source_title": "Consumer Reports; Inbound Logistics (Armstrong & Associates); Racklify; job postings; Airtasker",
+    "source_url": "https://www.inboundlogistics.com/articles/last-mile-deliveries-grow-bigger-and-bulkier/",
+    "publisher": "mixed",
+    "confidence": "low",
+    "use": [
+      "demo-data",
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-industry-25",
+    "claim": "Price-change labor is measurable: $0.52 per price change, 0.70% of revenue, 35% of net margin (supermarkets)",
+    "value": "$105887/store/yr; 0.70% of revenue; 35.2% of net margins; $0.52 per change ($1.33 under item-pricing laws); vendor rule 1-2 min per tag at $20-25/hr",
+    "unit": "USD; percent",
+    "year": 1997,
+    "source_title": "The Magnitude of Menu Costs: Direct Evidence from Large U.S. Supermarket Chains; ShopAppy ESL analysis",
+    "source_url": "https://econwpa.ub.uni-muenchen.de/econ-wp/mac/papers/0505/0505012.pdf",
+    "publisher": "Levy, Bergen, Dutta, Venable (QJE); ShopAppy",
+    "confidence": "high",
+    "use": [
+      "submission-research",
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-industry-26",
+    "claim": "California retail rent context",
+    "value": "Los Angeles $2.86/sq ft/month NNN (~$34/yr), availability 6.2% (Q4 2025); Bay Area $33.18/sq ft/yr NNN (Q1 2025); 30000 sq ft showroom at $34 = ~$1.0M/yr",
+    "unit": "USD per sq ft",
+    "year": 2025,
+    "source_title": "CBRE Los Angeles Retail Figures Q4 2025; CBRE Bay Area Retail Figures Q1 2025",
+    "source_url": "https://mktgdocs.cbre.com/2299/2047f204-1f0b-44cd-9d36-81b5a093cccb-2058784801/Q4_2025_LA_Retail_Figures.pdf",
+    "publisher": "CBRE Research",
+    "confidence": "high",
+    "use": [
+      "submission-research",
+      "demo-data"
+    ]
+  },
+  {
+    "id": "F-industry-27",
+    "claim": "Microbusiness owners work long weeks and cannot step away",
+    "value": "62% work >50 hrs/week, median 60 (UENI 2024, n=837, <=5 employees); 20% took no vacation in 12 months, avg 39 hrs/week (Gallup 2014, n=1004)",
+    "unit": "percent; hours per week",
+    "year": 2024,
+    "source_title": "How microbusiness owners spend their time; One in Five Microbusiness Owners Took No Vacation Last Year",
+    "source_url": "https://ueni.com/en-us/small-business-research/how-microbusiness-owners-spend-their-time",
+    "publisher": "UENI; Gallup",
+    "confidence": "medium",
+    "use": [
+      "video-opener",
+      "pitch"
+    ]
+  },
+  {
+    "id": "F-industry-28",
+    "claim": "Furniture Today Top 100 sales fell to $51.6B in 2024",
+    "value": "$51.6B (2024) vs $56.1B (2023), $60.6B (2022); store count -20.9% (2400+ units) after Big Lots, American Freight, Conn's/Badcock exits",
+    "unit": "USD billions",
+    "year": 2024,
+    "source_title": "Still struggling: In 2024, Top 100 continued its sales decline",
+    "source_url": "https://www.furnituretoday.com/furniture-retailing/still-struggling-in-2024-top-100-continued-its-sales-decline",
+    "publisher": "Furniture Today",
+    "confidence": "medium",
+    "use": [
+      "pitch"
+    ]
+  },
+  {
+    "id": "F-industry-29",
+    "claim": "Worked example: annual margin leakage for a $500k-inventory store (3 sales, 2 delivery staff)",
+    "value": "Sales $3.0M at 3 turns and 50% GM; gross exposure $312550 (10.4% of sales, 21% of gross profit): negotiated discounts $180000, waived delivery fees $44550, aged-stock carrying $25000, clearance markdowns $60000, re-tagging $3000; avoidable estimate $164350 (5.5% of sales) vs typical 3% net profit $90000; at 2 turns exposure ~$225k, avoidable ~$125k",
+    "unit": "USD per year (estimate)",
+    "year": 2026,
+    "source_title": "Derived from F-industry-07, 08, 10, 11, 12, 14, 17, 18, 20, 22, 23, 24, 25 with labeled assumptions (ticket $2000, 40% concession rate, 1/3 avoidable, $99 fee waived on 40%, 20% aged stock, 4 re-prices/yr)",
+    "source_url": "https://www2.census.gov/programs-surveys/arts/tables/2022/gmper.xlsx",
+    "publisher": "research-industry (computed)",
+    "confidence": "medium",
+    "use": [
+      "video-opener",
+      "pitch",
+      "layer1-spec"
+    ]
+  }
+]

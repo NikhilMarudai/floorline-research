@@ -1,0 +1,357 @@
+[
+ {
+  "id": "F-expansion-01",
+  "claim": "CarGurus average U.S. paying dealer spends ~$2.45k-2.65k/month",
+  "value": "US QARSD $7,337 (Q4 2024), $7,938 (Q4 2025); ~$2,446 and ~$2,646 per month",
+  "unit": "USD per dealer per quarter",
+  "year": 2025,
+  "source_title": "CarGurus FY2025 Form ARS",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/0001494259/000119312526170497/2025_form_ars.pdf",
+  "publisher": "CarGurus / SEC",
+  "confidence": "high",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-02",
+  "claim": "Dealers report large opaque CarGurus fee increases",
+  "value": "$750 to $2,620 to $5,640/month; reported increases 16-602%",
+  "unit": "USD per month",
+  "year": null,
+  "source_title": "DealerRefresh CarGurus rate increase thread",
+  "source_url": "https://forum.dealerrefresh.com/threads/cargurus-100-rate-increase-2nd-time-in-2-years.4696/page-2",
+  "publisher": "DealerRefresh",
+  "confidence": "low",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-03",
+  "claim": "Independent used-car front-end gross ~ $4,000 per unit",
+  "value": "$4,068 (2023, down from $4,110); F&I $1,603; recon $1,741; independents retailed 9.8M units in 2025; CarMax retail GPU $2,251 (Q4 FY2024)",
+  "unit": "USD per vehicle",
+  "year": 2023,
+  "source_title": "NIADA dashboard recap",
+  "source_url": "https://niada.com/dashboard/?p=3955",
+  "publisher": "NIADA",
+  "confidence": "medium",
+  "use": [
+   "pitch",
+   "submission-research"
+  ]
+ },
+ {
+  "id": "F-expansion-04",
+  "claim": "Aged used-car holding cost $30-85 per car per day",
+  "value": "$30-40/day (AutoAlert 2026); $50-85/day (ACV in NJ CAR 2026); ~$40 (NextGear); $52.12 (Wards example); aged after 45-60 days",
+  "unit": "USD per vehicle per day",
+  "year": 2026,
+  "source_title": "AutoAlert: Definitive Guide to Managing Aged Inventory",
+  "source_url": "https://www.autoalert.com/dealership-aged-inventory-strategies/",
+  "publisher": "AutoAlert",
+  "confidence": "medium",
+  "use": [
+   "pitch",
+   "video-opener"
+  ]
+ },
+ {
+  "id": "F-expansion-05",
+  "claim": "vAuto pricing is quote-only; third-party estimate $4.8k-7.2k license plus onboarding",
+  "value": "$4,800-7,200 license (period unstated) + $3,000-8,000 onboarding; first year $7,800-15,200+",
+  "unit": "USD",
+  "year": 2026,
+  "source_title": "ITQlick DealersLink pricing comparison",
+  "source_url": "https://www.itqlick.com/dealerslink/pricing",
+  "publisher": "ITQlick",
+  "confidence": "low",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-06",
+  "claim": "Car dealers run a desk where the manager sets what the salesperson may offer and approves exceptions",
+  "value": "Desk manager authorizes offer terms; Roadster Express Desking messages desk for approval; vAuto pricing integrated into VinSolutions CRM",
+  "unit": "workflow",
+  "year": null,
+  "source_title": "VinSolutions: Mastering Automotive Desking",
+  "source_url": "https://www.vinsolutions.com/resources/blog/mastering-automotive-desking-guide/",
+  "publisher": "Cox Automotive (vendor)",
+  "confidence": "high",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-07",
+  "claim": "Most used-car hagglers succeed, but fewer than half always negotiate",
+  "value": "CR: 70% of used-car buyers haggled, 83% succeeded (year n/a); CarGurus UK 2023: 29% always negotiate, avg saving GBP 896",
+  "unit": "percent",
+  "year": 2023,
+  "source_title": "Consumer Reports: Why haggling for your next car really pays",
+  "source_url": "https://www.consumerreports.org/used-car-buying/why-haggling-for-your-next-car-really-pays",
+  "publisher": "Consumer Reports",
+  "confidence": "medium",
+  "use": [
+   "submission-research"
+  ]
+ },
+ {
+  "id": "F-expansion-08",
+  "claim": "Jewelry stores turn inventory 0.7-1.2 times a year",
+  "value": "Turn 0.7-1.2/yr (~10-17 months average hold); surveyed average GMROI 70; aged stock target 20% or less",
+  "unit": "turns per year",
+  "year": null,
+  "source_title": "INSTORE: Jewelry retailers split on inventory turn",
+  "source_url": "https://instoremag.com/jewelry-retailers-split-on-inventory-turn-clearance-showcases",
+  "publisher": "INSTORE",
+  "confidence": "medium",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-09",
+  "claim": "Independent jewelers bargain more than chains, especially on aged pieces",
+  "value": "CR 2009: 79% of jewelry hagglers got a lower price; jeweler blog: 10-20% off realistic, 5-10% for cash",
+  "unit": "percent",
+  "year": 2009,
+  "source_title": "Consumer Reports press release May 2009",
+  "source_url": "https://www.consumerreports.org/media-room/press-releases/2009/05/consumer-reports-money-special-publication-haggling-for-everything-is-new-rule-in-a-down-economy",
+  "publisher": "Consumer Reports",
+  "confidence": "medium",
+  "use": [
+   "submission-research",
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-10",
+  "claim": "Jewelry salespeople are often paid on gross profit",
+  "value": "Consultant target ~15-16% of salesperson gross profit; tiered 3-4% commissions; sales 8-13x pay healthy",
+  "unit": "percent of GP",
+  "year": null,
+  "source_title": "JCK: Savvy Jeweler's Guide to Compensation",
+  "source_url": "https://www.jckonline.com/article-long/jewelers-guide-to-compensation/",
+  "publisher": "JCK",
+  "confidence": "medium",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-11",
+  "claim": "Jewelry POS is mostly a one-time license; no offer-check tool found",
+  "value": "The Edge $3,500 one-time (Capterra) / $4,600 basic (G2); wJewel from $125/device/month; Clientbook quote-only",
+  "unit": "USD",
+  "year": 2026,
+  "source_title": "Capterra: The Edge",
+  "source_url": "https://www.capterra.com/p/79243/EDGE/",
+  "publisher": "Capterra",
+  "confidence": "medium",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-12",
+  "claim": "Mattress gross margins are high and commissioned independents negotiate",
+  "value": "Gross margin 40-75% (GoodBed); 40-60% healthy independent",
+  "unit": "percent",
+  "year": null,
+  "source_title": "GoodBed: Mattress pricing economics",
+  "source_url": "https://www.goodbed.com/guides/mattress-pricing-economics/",
+  "publisher": "GoodBed",
+  "confidence": "low",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-13",
+  "claim": "Manufacturer UMRP sets appliance minimums; haggling still succeeds",
+  "value": "GE Monogram cuts off supply below UMRP; CR 2013: 94% appliance hagglers succeed (~$200 saved), furniture 87% (~$300); BrandSource ~4,500 dealers, Nationwide ~5,000 members (2022)",
+  "unit": "policy / percent",
+  "year": 2013,
+  "source_title": "GE Appliances Monogram UMRP policy",
+  "source_url": "https://customernet.geappliances.com/PriceCommWeb/PriceComm/Documents/Monogram_UMRP.pdf",
+  "publisher": "GE Appliances",
+  "confidence": "high",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-14",
+  "claim": "Boat floor-plan rates were 8-10.6% in 2024, with margin rising by age",
+  "value": "8.07-10.32% new, 8.32-10.57% pre-owned at 2024-03-31; margin 2.75-5.00% rising with age; ~$750-850/month on a $100k unit (derived)",
+  "unit": "percent APR",
+  "year": 2024,
+  "source_title": "SEC EDGAR Notes Payable Floor Plan (CIK 1772921)",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1772921/000177292124000037/R15.htm",
+  "publisher": "SEC",
+  "confidence": "high",
+  "use": [
+   "pitch",
+   "video-opener"
+  ]
+ },
+ {
+  "id": "F-expansion-15",
+  "claim": "Over 20% of marine inventory was more than 12 months old in 2024",
+  "value": "Normal 10-15% aged; 2024 above 20% aged over 12 months (Northpoint)",
+  "unit": "percent of inventory",
+  "year": 2024,
+  "source_title": "Trade Only Today: Climbing out",
+  "source_url": "https://tradeonlytoday.com/dealers/climbing-out/",
+  "publisher": "Trade Only Today",
+  "confidence": "medium",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-16",
+  "claim": "Floor-planned unit held 76 days costs ~$700-1,000; curtailment at 90-120 days",
+  "value": "~$700 at 7%, ~$1,000 at 10%; curtailment 90 or 120 days",
+  "unit": "USD per unit",
+  "year": null,
+  "source_title": "Corpay: Floor plan financing",
+  "source_url": "https://www.corpay.com/resources/blog/floor-plan-financing",
+  "publisher": "Corpay",
+  "confidence": "medium",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-17",
+  "claim": "Powersports and marine DMS estimated at $1k-3k+ per store per month",
+  "value": "Lightspeed DMS ~$1,000-3,000+/month/store; Dealer Spike/DX1 sites ~$400-1,500/month",
+  "unit": "USD per store per month",
+  "year": 2026,
+  "source_title": "Pulse RevOps: powersports dealer tech stack",
+  "source_url": "https://pulserevops.com/tech-stacks/tk0174",
+  "publisher": "Pulse RevOps",
+  "confidence": "low",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-18",
+  "claim": "Pawn software is cheap, about $60-333 per month",
+  "value": "Bravo $60-125/month; PawnMaster $125-333/month or $495 perpetual; PawnSnap $89/user/month",
+  "unit": "USD per month",
+  "year": 2026,
+  "source_title": "SoftwareConnect: Pawn shop software",
+  "source_url": "https://softwareconnect.com/pawn-shop",
+  "publisher": "SoftwareConnect",
+  "confidence": "low",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-19",
+  "claim": "Consignment software costs ~$50-240 per month",
+  "value": "Ricochet $159 base, $238 with e-commerce, +$129 per extra location (2024); ConsignPro $49-69/user/month",
+  "unit": "USD per month",
+  "year": 2024,
+  "source_title": "ConsignCloud vs Ricochet",
+  "source_url": "https://consigncloud.com/blog/comparing-top-consignment-software-for-small-businesses-consigncloud-and-ricochet",
+  "publisher": "ConsignCloud (competitor)",
+  "confidence": "medium",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-20",
+  "claim": "Piano and hot-tub dealers negotiate, floor-plan stock, and bundle extras",
+  "value": "Piano sticker ~2x dealer cost, many floor-planned; local hot-tub dealers usually negotiate",
+  "unit": "qualitative",
+  "year": null,
+  "source_title": "Living Pianos: What you don't know about piano stores",
+  "source_url": "https://livingpianos.com/what-you-dont-know-about-piano-stores",
+  "publisher": "Living Pianos (dealer)",
+  "confidence": "low",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-21",
+  "claim": "Flooring, bike and bridal stores show weaker or different-shaped price pain",
+  "value": "Flooring priced by job quote; bike shops MSRP-led (35-40% margin anecdote); bridal negotiates mostly on sample gowns (up to 75% off)",
+  "unit": "qualitative",
+  "year": null,
+  "source_title": "FloorTrends: The art of negotiating part 2",
+  "source_url": "https://www.floortrendsmag.com/articles/104356-the-art-of-negotiating-part-2",
+  "publisher": "FloorTrends",
+  "confidence": "low",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-22",
+  "claim": "Price-optimization software ~ $1.4-2.0B in 2025 at 13.8-17% CAGR (analyst estimates)",
+  "value": "TBRC $1.40B (2025) to $2.67B (2030), 13.8%; 360iResearch $1.96B (2025) to $5.94B (2032), 17.14%; Technavio +$2.12B 2025-30, 16.5%",
+  "unit": "USD billions",
+  "year": 2025,
+  "source_title": "GII / TBRC Price Optimization Software Global Market Report",
+  "source_url": "https://www.giiresearch.com/report/tbrc1982734-price-optimization-software-global-market-report.html",
+  "publisher": "The Business Research Company via GII",
+  "confidence": "low",
+  "use": [
+   "pitch",
+   "submission-research"
+  ]
+ },
+ {
+  "id": "F-expansion-23",
+  "claim": "Dynamic-pricing estimates span $2.1-5.2B in 2024 (analyst estimates)",
+  "value": "TBRC $3.05B (15.5%); DataHorizzon ~$2.1B (14.2%); GMI $5.2B incl. yield mgmt (7.6%); MarketsandMarkets $2.7B to $6.8B 2029 (20%, second-hand)",
+  "unit": "USD billions",
+  "year": 2024,
+  "source_title": "Global Market Insights: Dynamic Pricing and Yield Management Market",
+  "source_url": "https://www.gminsights.com/industry-analysis/dynamic-pricing-and-yield-management-market",
+  "publisher": "Global Market Insights",
+  "confidence": "low",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-24",
+  "claim": "Broad retail pricing software ~ $12-14B (analyst estimate)",
+  "value": "$12.44B (2025) to $13.61B (2026), 9.4% CAGR",
+  "unit": "USD billions",
+  "year": 2025,
+  "source_title": "GII / TBRC Retail Pricing Software Global Market Report",
+  "source_url": "https://giikorea.co.kr/report/tbrc1983048-retail-pricing-software-global-market-report.html",
+  "publisher": "The Business Research Company via GII",
+  "confidence": "low",
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "F-expansion-25",
+  "claim": "No reliable SMB AI-pricing adoption figure",
+  "value": "Attributed SBE Council 2026: 65% use or plan to use AI pricing (unverified); EU retailers 2025: ~61% some dynamic pricing, under 15% AI-based",
+  "unit": "percent",
+  "year": 2026,
+  "source_title": "UD.hk: AI dynamic pricing for SMEs",
+  "source_url": "https://ud.hk/en/blogs/insight/article/2026-07-03-ai-dynamic-pricing-sme",
+  "publisher": "UD.hk blog",
+  "confidence": "low",
+  "use": [
+   "pitch"
+  ]
+ }
+]

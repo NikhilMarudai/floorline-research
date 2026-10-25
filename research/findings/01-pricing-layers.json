@@ -1,0 +1,627 @@
+[
+  {
+    "id": "F-pricing-01",
+    "claim": "Landed cost = material cost + freight + landed add-ons (insurance, customs, duties, tariffs)",
+    "value": "definition",
+    "unit": "n/a",
+    "year": 2024,
+    "source_title": "Factoring Freight in Home Furnishings Retail",
+    "source_url": "https://www.storis.com/?p=35117",
+    "publisher": "STORIS",
+    "confidence": "high",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-02",
+    "claim": "Freight is estimated at PO time, replaced with actuals, and allocated to items by cost share (most common), cube, or weight",
+    "value": "practice",
+    "unit": "n/a",
+    "year": 2024,
+    "source_title": "Factoring Freight in Home Furnishings Retail",
+    "source_url": "https://www.storis.com/?p=35117",
+    "publisher": "STORIS",
+    "confidence": "high",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-03",
+    "claim": "Imported upholstered furniture carries a 25% Section 232 tariff since Oct 2025; scheduled rise to 30% postponed to 2027",
+    "value": "25 (30 scheduled, delayed)",
+    "unit": "percent tariff",
+    "year": 2025,
+    "source_title": "Trump's furniture and cabinet tariffs take shape",
+    "source_url": "https://businessofhome.com/articles/trump-s-furniture-and-cabinet-tariffs-take-shape",
+    "publisher": "Business of Home",
+    "confidence": "high",
+    "use": [
+      "layer1-spec",
+      "submission-research"
+    ]
+  },
+  {
+    "id": "F-pricing-04",
+    "claim": "Annual inventory carrying cost commonly 15-35% of inventory value",
+    "value": "15-35",
+    "unit": "percent of inventory value per year",
+    "year": 2025,
+    "source_title": "Calculate inventory carrying costs",
+    "source_url": "https://www.cleverence.com/amp/articles/for-business/calculate-inventory-carrying-costs-4827/",
+    "publisher": "Cleverence",
+    "confidence": "medium",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-05",
+    "claim": "Keystone is 2.0x cost; real initial markups range from cost x2 plus $1-2 to multipliers of 2.2-2.3; IMU must cover net profit, operating expense and markdowns",
+    "value": "2.0-2.3",
+    "unit": "multiple of cost",
+    "year": 2011,
+    "source_title": "Going Up?",
+    "source_url": "https://lgrmag.com/?p=13814",
+    "publisher": "Lawn & Garden Retailer",
+    "confidence": "medium",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-06",
+    "claim": "Share of furniture stores using exactly 2.0x markup: 46% queen bedding, 40% master bedroom, 39% leather stationary sofa; mattresses 17% above 2.0x, 37% below",
+    "value": "46 / 40 / 39",
+    "unit": "percent of stores",
+    "year": 2008,
+    "source_title": "Bedding's star still shines bright in furniture stores",
+    "source_url": "https://www.furnituretoday.com/business-news/beddings-star-still-shines-bright-in-furniture-stores",
+    "publisher": "Furniture Today",
+    "confidence": "medium",
+    "use": [
+      "layer1-spec",
+      "submission-research"
+    ]
+  },
+  {
+    "id": "F-pricing-07",
+    "claim": "Independent furniture store medians 2016: gross margin 46.5%, stock turns 4.0x, $200 sales per sq ft, close ratio 22%",
+    "value": "46.5 GM; 4.0 turns; 200 $/sqft; 22 close",
+    "unit": "percent / x / USD per sq ft / percent",
+    "year": 2016,
+    "source_title": "Close ratios and stock turns decrease; gross margin increases",
+    "source_url": "https://www.furnituretoday.com/business-news/close-ratios-and-stock-turns-decrease-gross-margin-increases",
+    "publisher": "Furniture Today",
+    "confidence": "high",
+    "use": [
+      "layer1-spec",
+      "video-opener"
+    ]
+  },
+  {
+    "id": "F-pricing-08",
+    "claim": "Independent furniture store medians 2010: gross margin 47%, turns 3.2x, $160/sq ft, close ratio 35%, average transaction $875",
+    "value": "47 GM; 3.2 turns; 160 $/sqft; 35 close; 875 ticket",
+    "unit": "mixed",
+    "year": 2010,
+    "source_title": "A peek inside furniture store operations",
+    "source_url": "https://www.furnituretoday.com/business-news/a-peek-inside-furniture-store-operations",
+    "publisher": "Furniture Today",
+    "confidence": "high",
+    "use": [
+      "submission-research"
+    ]
+  },
+  {
+    "id": "F-pricing-09",
+    "claim": "Havertys gross margin 60.7% in 2024 and 2023; occupancy and home delivery costs in SG&A (58.0% of sales)",
+    "value": "60.7",
+    "unit": "percent gross margin",
+    "year": 2024,
+    "source_title": "Haverty Furniture Companies 10-K FY2024",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/216085/000162828025010869/hvt-20241231.htm",
+    "publisher": "SEC EDGAR",
+    "confidence": "high",
+    "use": [
+      "layer1-spec",
+      "pitch"
+    ]
+  },
+  {
+    "id": "F-pricing-10",
+    "claim": "Category gross-margin medians 2002: rugs 47%, bedding 45%, casual dining 45%, stationary upholstery 45%; bedding GMROI 4.91 and turns 6.0",
+    "value": "47 / 45 / 45 / 45; GMROI 4.91",
+    "unit": "percent; dollars per dollar",
+    "year": 2002,
+    "source_title": "Bedding again leads list of high-profit products",
+    "source_url": "https://www.furnituretoday.com/business-news/bedding-again-leads-list-of-high-profit-products",
+    "publisher": "Furniture Today",
+    "confidence": "medium",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-11",
+    "claim": "MAP sets the lowest advertised price; stores may still sell below it in person (MSRP $199, MAP $149, in-store $119 example); not all furniture vendors use MAP",
+    "value": "policy mechanics",
+    "unit": "n/a",
+    "year": 2018,
+    "source_title": "What should the furniture industry do about minimum advertised pricing?",
+    "source_url": "https://www.furnituretoday.com/business-news/what-should-furniture-industry-minimum-advertised-pricing",
+    "publisher": "Furniture Today",
+    "confidence": "high",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-12",
+    "claim": "Tempur-Pedic retail pricing policy is a unilateral minimum resale price enforced by suspending shipments; New York's challenge failed in 2012",
+    "value": "policy binds selling price",
+    "unit": "n/a",
+    "year": 2012,
+    "source_title": "People v. Tempur-Pedic International (App. Div. 1st Dept.)",
+    "source_url": "https://www.nycourts.gov/reporter/3dseries/2012/2012_03557.htm",
+    "publisher": "NY Courts",
+    "confidence": "high",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-13",
+    "claim": "Ekornes (Stressless) polices minimum retail price guidelines through selective distribution (~700 US storefronts)",
+    "value": "700 storefronts; $799-2,199 chair range",
+    "unit": "count; USD",
+    "year": 2002,
+    "source_title": "Ekornes eyes U.S. growth",
+    "source_url": "https://www.furnituretoday.com/business-news/ekornes-eyes-us-growth",
+    "publisher": "Furniture Today",
+    "confidence": "low",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-14",
+    "claim": "Eight-way hand-tied springs are usually the most expensive suspension; sinuous springs are mid-priced and typically cost significantly less",
+    "value": "qualitative ordering",
+    "unit": "n/a",
+    "year": 2025,
+    "source_title": "8-Way Hand-Tied Springs vs. Sinuous Springs",
+    "source_url": "https://thisvsthat.io/8-way-hand-tied-springs-vs-sinuous-springs",
+    "publisher": "ThisVsThat",
+    "confidence": "medium",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-15",
+    "claim": "Leather upholstery runs roughly 30% more than fabric on comparable pieces; bonded leather is ~17% leather and priced a fraction of top-grain (seller claims 3-4x gap)",
+    "value": "30 more than fabric; 3-4x bonded vs top-grain",
+    "unit": "percent; multiple",
+    "year": 2026,
+    "source_title": "How Much Does Leather Furniture Actually Cost?",
+    "source_url": "https://furnitureacademy.com/how-much-does-leather-furniture-cost/",
+    "publisher": "Furniture Academy",
+    "confidence": "low",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-16",
+    "claim": "Veneer case goods can look near-identical to solid wood and cost about half",
+    "value": "~50",
+    "unit": "percent of solid-wood price",
+    "year": 2025,
+    "source_title": "Solid Wood vs. Veneer Wood: Which Is Better?",
+    "source_url": "https://gphomefurniture.ca/blogs/news/solid-wood-vs-veneer-wood-which-is-better",
+    "publisher": "GP Home Furniture",
+    "confidence": "low",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-17",
+    "claim": "No quantitative sell-through or markdown data by color found; trade press records retailer anecdotes only (neutrals core, bold as accents)",
+    "value": "not found",
+    "unit": "n/a",
+    "year": 2013,
+    "source_title": "Wider array of colors reaching retail floors",
+    "source_url": "https://www.furnituretoday.com/business-news/wider-array-of-colors-reaching-retail-floors",
+    "publisher": "Furniture Today",
+    "confidence": "medium",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-18",
+    "claim": "One UK retailer (DFS) reported a 595% rise in yellow-sofa sales over six months; no follow-up on markdowns",
+    "value": "595",
+    "unit": "percent increase",
+    "year": 2018,
+    "source_title": "We can't get enough of sunshine yellow sofas this summer",
+    "source_url": "https://www.idealhome.co.uk/news/dfs-yellow-sofa-206391",
+    "publisher": "Ideal Home",
+    "confidence": "low",
+    "use": [
+      "submission-research"
+    ]
+  },
+  {
+    "id": "F-pricing-19",
+    "claim": "Pinterest Predicts 2026 is built from 600M monthly users' searches (Sep 2024-Aug 2025 vs prior year); reports search growth, not sales",
+    "value": "600000000 monthly users",
+    "unit": "count",
+    "year": 2025,
+    "source_title": "Pinterest Predicts 2026",
+    "source_url": "https://www.apartmenttherapy.com/pinterest-predicts-2026-37522611",
+    "publisher": "Apartment Therapy",
+    "confidence": "high",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-20",
+    "claim": "Google Trends predicts aggregate retail sales but is a 0-100 relative index with privacy threshold and sampling noise; small regions and low-volume terms return zeros or unstable values",
+    "value": "method limits",
+    "unit": "n/a",
+    "year": 2025,
+    "source_title": "Google Trends not working / zeros",
+    "source_url": "https://meetglimpse.com/google-trends/not-working/",
+    "publisher": "Glimpse",
+    "confidence": "high",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-21",
+    "claim": "High Point Market Apr 25-29 and Oct 17-21, 2026; Las Vegas Market Jan 25-29 and Jul 26-30, 2026",
+    "value": "dates",
+    "unit": "n/a",
+    "year": 2026,
+    "source_title": "Non-AHFA events 2026",
+    "source_url": "https://ahfa.us/events/nonahfa/2026",
+    "publisher": "AHFA",
+    "confidence": "high",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-22",
+    "claim": "46% of furniture shoppers research online before buying in store; 45% shop both channels",
+    "value": "46 / 45",
+    "unit": "percent of shoppers",
+    "year": 2025,
+    "source_title": "Digital tools reshape furniture shopping trends",
+    "source_url": "https://www.interiordaily.com/article/9712116/digital-tools-reshape-furniture-shopping-trends/",
+    "publisher": "Interior Daily (3D Cloud/Provoke Insights study)",
+    "confidence": "medium",
+    "use": [
+      "layer1-spec",
+      "pitch"
+    ]
+  },
+  {
+    "id": "F-pricing-23",
+    "claim": "60% of US furniture buyers in the past year felt they overpaid (sofas 62%, dining tables 66%, mattresses 61%); 83% would trade down",
+    "value": "60 / 62 / 66 / 61 / 83",
+    "unit": "percent of respondents (n=2000)",
+    "year": 2025,
+    "source_title": "Furniture shoppers are trading down, survey finds",
+    "source_url": "https://www.designerstoday.com/furniture/side-effect-of-tariff-fatigue-furniture-shoppers-are-trading-down-survey-finds",
+    "publisher": "Designers Today citing L.E.K. Consulting",
+    "confidence": "high",
+    "use": [
+      "video-opener",
+      "pitch"
+    ]
+  },
+  {
+    "id": "F-pricing-24",
+    "claim": "GMROI = gross margin dollars / average inventory at cost; furniture benchmark bands 1.3-2.5 (one source) and ~2.0-3.0 (others)",
+    "value": "1.3-2.5",
+    "unit": "dollars gross margin per dollar inventory",
+    "year": 2026,
+    "source_title": "What is GMROI",
+    "source_url": "https://eightx.co/blog/what-is-gmroi",
+    "publisher": "Eightx",
+    "confidence": "medium",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-25",
+    "claim": "Sell-through = units sold / units received; home goods and furnishings guideline 15-40% monthly or lower",
+    "value": "15-40",
+    "unit": "percent per month",
+    "year": 2026,
+    "source_title": "Sell-Through Rate Benchmarks By Category",
+    "source_url": "https://racklify.com/encyclopedia/sell-through-rate-benchmarks-by-category-what-good-looks-like-for-retailers/",
+    "publisher": "Racklify",
+    "confidence": "medium",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-26",
+    "claim": "General-retail aged-inventory playbooks step actions at ~90, 180, 270-365 days (e.g., 20% off at 91-180 days); no furniture-specific cadence published",
+    "value": "90 / 180 / 270 day thresholds; 20% example",
+    "unit": "days; percent",
+    "year": 2026,
+    "source_title": "How Warehouse Managers Should Handle Aged Inventory",
+    "source_url": "https://racklify.com/encyclopedia/how-warehouse-managers-should-handle-aged-inventory-strategies-for-reduction/",
+    "publisher": "Racklify",
+    "confidence": "medium",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-27",
+    "claim": "Floor-model discounts: no standard; most 10-15%, up to ~40% for worn or long-displayed units",
+    "value": "10-15 typical; up to 40",
+    "unit": "percent off",
+    "year": 2025,
+    "source_title": "What Are Floor Model Appliances and Should You Buy One?",
+    "source_url": "https://www.homeserve.com/blog/buying-guide/floor-model-appliances",
+    "publisher": "HomeServe",
+    "confidence": "low",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-28",
+    "claim": "Independent-store median stock turns fell from 4.3x (2015) to 4.0x (2016); a 2025 planning guide treats 2.0-3.0x as workable, below 1.8x as weak",
+    "value": "4.0 (2016); 2.0-3.0 target",
+    "unit": "turns per year",
+    "year": 2016,
+    "source_title": "Close ratios and stock turns decrease; gross margin increases",
+    "source_url": "https://www.furnituretoday.com/business-news/close-ratios-and-stock-turns-decrease-gross-margin-increases",
+    "publisher": "Furniture Today",
+    "confidence": "high",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-29",
+    "claim": "Custom upholstery lead times: Four Hands 8-10 weeks (2025); Flexsteel domestic 4 weeks (2022); typical branded 12-16 weeks; 2022 peaks of 35-51 weeks",
+    "value": "8-10; 4; 12-16; 35-51 peak",
+    "unit": "weeks",
+    "year": 2025,
+    "source_title": "Four Hands launches custom upholstery program with faster lead times",
+    "source_url": "https://www.furnituretoday.com/tag/lead-times",
+    "publisher": "Furniture Today",
+    "confidence": "high",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-30",
+    "claim": "Special orders typically require a deposit and are non-returnable",
+    "value": "policy pattern",
+    "unit": "n/a",
+    "year": 2025,
+    "source_title": "La-Z-Boy Home Furnishings & Decor listing",
+    "source_url": "https://www.checkbook.org/wa/tukwila/furniture-stores/la-z-boy-home-furnishings-and-decor/di5eh",
+    "publisher": "Consumers' Checkbook",
+    "confidence": "low",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-31",
+    "claim": "Black Friday 2024 furniture discounts averaged 36% across 4,300+ ads (Macy's ~53%, Walmart 50%, Target 43%, Home Depot 41%, Amazon 25%, Costco 24%)",
+    "value": "36 average",
+    "unit": "percent off",
+    "year": 2024,
+    "source_title": "Major retailers are rolling out Black Friday furniture deals, ad analysis shows",
+    "source_url": "https://www.furnituretoday.com/?p=323376",
+    "publisher": "Furniture Today citing WalletHub",
+    "confidence": "high",
+    "use": [
+      "layer1-spec",
+      "submission-research"
+    ]
+  },
+  {
+    "id": "F-pricing-32",
+    "claim": "Holiday-weekend furniture promotions run 20-30% off; mattress reference discounts 50-80%; Jan-Feb and Jul-Aug are clearance windows",
+    "value": "20-30 furniture; 50-80 mattress",
+    "unit": "percent off",
+    "year": 2014,
+    "source_title": "7 Questions to Ask Before You Buy a Couch",
+    "source_url": "https://oprah.com/home/couch-tips-buying-a-sofa/5",
+    "publisher": "Oprah.com (with Kiplinger, Lugg)",
+    "confidence": "low",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-33",
+    "claim": "'Up to X% off' claims require enough items at the maximum; FTC and self-regulatory guidance differ; no numeric threshold published",
+    "value": "rule of practice",
+    "unit": "n/a",
+    "year": 2025,
+    "source_title": "In honor of Prime Day: a primer on advertising sales",
+    "source_url": "https://advertisinglaw.fkks.com/post/102gi39/in-honor-of-prime-day-a-primer-on-advertising-sales",
+    "publisher": "Frankfurt Kurnit",
+    "confidence": "medium",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-34",
+    "claim": "Ashley price-matches only identical in-stock items sold and fulfilled by 5-6 named online sellers; La-Z-Boy matches stores within 50 miles",
+    "value": "5-6 sellers; 50 miles",
+    "unit": "count; miles",
+    "year": 2024,
+    "source_title": "Ashley Furniture's Price Match Policy",
+    "source_url": "https://www.truthinadvertising.org/ashley-furnitures-price-match-policy/",
+    "publisher": "Truth in Advertising",
+    "confidence": "medium",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-35",
+    "claim": "Brick-and-mortar retailers treat MAP as protection from online discounters and lean on service (white-glove delivery within 500 miles example); online sellers evade MAP via in-cart pricing",
+    "value": "500 miles example",
+    "unit": "miles",
+    "year": 2018,
+    "source_title": "What should the furniture industry do about minimum advertised pricing?",
+    "source_url": "https://www.furnituretoday.com/business-news/what-should-furniture-industry-minimum-advertised-pricing",
+    "publisher": "Furniture Today",
+    "confidence": "high",
+    "use": [
+      "layer1-spec",
+      "pitch"
+    ]
+  },
+  {
+    "id": "F-pricing-36",
+    "claim": "White-glove delivery priced $150-500+ per stop by 3PLs vs $15-50 standard; retailer fees cluster $99-149 per order",
+    "value": "150-500 per stop; 149 per order",
+    "unit": "USD",
+    "year": 2026,
+    "source_title": "White glove delivery guide",
+    "source_url": "https://www.wearewarp.com/warp-blogs/white-glove-delivery-guide",
+    "publisher": "Warp (figures from search excerpt; not confirmed on page)",
+    "confidence": "low",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-37",
+    "claim": "48% of Americans tried haggling in prior three years (61% in 2007); 89% of hagglers succeeded; furniture hagglers saved $300 on average; 57% used 'I'll check competitors'",
+    "value": "48; 89; 300; 57",
+    "unit": "percent; percent; USD; percent (n=2000)",
+    "year": 2013,
+    "source_title": "Consumer Reports' Survey: Nine of 10 Americans Who Haggled Saved Money",
+    "source_url": "https://www.consumerreports.org/media-room/press-releases/2013/07/my-entry",
+    "publisher": "Consumer Reports",
+    "confidence": "high",
+    "use": [
+      "video-opener",
+      "submission-research"
+    ]
+  },
+  {
+    "id": "F-pricing-38",
+    "claim": "Haggling is more common at independent retailers than chains because owners and managers have more leeway",
+    "value": "qualitative",
+    "unit": "n/a",
+    "year": 2008,
+    "source_title": "Haggling making a comeback",
+    "source_url": "https://honoluluadvertiser.com/article/2008/May/11/bz/hawaii805110345.html",
+    "publisher": "Honolulu Advertiser",
+    "confidence": "low",
+    "use": [
+      "pitch"
+    ]
+  },
+  {
+    "id": "F-pricing-39",
+    "claim": "Tiered discount authority is standard: rep alone up to ~10%, manager 10-25%, executive above; POS enforces with manager PIN override",
+    "value": "10 / 25 example tiers",
+    "unit": "percent off",
+    "year": 2025,
+    "source_title": "Discount approval",
+    "source_url": "https://dealhub.io/glossary/discount-approval/",
+    "publisher": "DealHub",
+    "confidence": "medium",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-40",
+    "claim": "Furniture sales commissions paid on written or delivered sales; one current posting pays 7% of written sales; no industry benchmark table found",
+    "value": "7",
+    "unit": "percent of written sales",
+    "year": 2025,
+    "source_title": "Design Consultant at EQ3",
+    "source_url": "https://designproject.io/jobs/design-consultant-at-eq3-czidob",
+    "publisher": "Design Project job board",
+    "confidence": "low",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-41",
+    "claim": "California metro retail asking rents: Bay Area $33.18/sf/yr NNN (Q1 2025); LA $36.50 (Q3 2025); SF $43.75 (Q2 2026); Fresno $19.60 (Q4 2025)",
+    "value": "19.60-43.75",
+    "unit": "USD per sq ft per year",
+    "year": 2025,
+    "source_title": "Bay Area Retail Figures Q1 2025",
+    "source_url": "https://www.cbre.com/insights/figures/bay-area-retail-figures-q1-2025",
+    "publisher": "CBRE (with Matthews, Lee & Associates)",
+    "confidence": "high",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-42",
+    "claim": "FTC 16 CFR 233.1: former price must be the actual, bona fide price offered to the public on a regular basis for a reasonably substantial period; inflated set-up prices are fictitious",
+    "value": "federal guide text",
+    "unit": "n/a",
+    "year": 2025,
+    "source_title": "16 CFR 233.1 Former price comparisons",
+    "source_url": "https://www.law.cornell.edu/cfr/text/16/233.1",
+    "publisher": "Cornell LII",
+    "confidence": "high",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-43",
+    "claim": "FTC 16 CFR 233.2-233.3: competitor or MSRP comparisons are deceptive unless the higher price does not appreciably exceed what principal trade-area outlets charge for substantial sales",
+    "value": "federal guide text",
+    "unit": "n/a",
+    "year": 2025,
+    "source_title": "16 CFR 233.3 Manufacturer suggested prices",
+    "source_url": "https://www.law.cornell.edu/cfr/text/16/233.3",
+    "publisher": "Cornell LII",
+    "confidence": "high",
+    "use": [
+      "layer1-spec"
+    ]
+  },
+  {
+    "id": "F-pricing-44",
+    "claim": "Cal. B&P 17501: former price must have been the prevailing market price within the prior three months or be dated conspicuously; Civ. Code 1770(a)(13) bans false price-reduction statements; statute upheld 2019",
+    "value": "3 months",
+    "unit": "months",
+    "year": 2025,
+    "source_title": "Cal. Bus. & Prof. Code 17501",
+    "source_url": "https://codes.findlaw.com/ca/business-and-professions-code/bpc-sect-17501/",
+    "publisher": "FindLaw (with Justia, Manatt)",
+    "confidence": "high",
+    "use": [
+      "layer1-spec"
+    ]
+  }
+]

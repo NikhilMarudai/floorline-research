@@ -1,0 +1,879 @@
+[
+ {
+  "id": "Q-reddit-01",
+  "who": "owner (3-store furniture retailer, Pune)",
+  "quote": "But I still don’t have clear answers to things like: Which inventory is quietly draining cash flow. Where we’re over-discounting without realizing. Which store is actually underperforming vs the others. It feels like I’m surrounded by data but have zero real clarity.",
+  "context": "Owner of a 3-store, 12-staff furniture business asks r/smallbusiness why month-end never adds up despite Tally and an accountant.",
+  "platform": "Reddit r/smallbusiness",
+  "title": "Our furniture business does ₹80L/month but I genuinely don't know where the money goes",
+  "url": "https://www.reddit.com/r/smallbusiness/comments/1s3jt0r/our_furniture_business_does_80lmonth_but_i/",
+  "date": "2026-03-25",
+  "engagement": "13 comments",
+  "themes": [
+   "tools-frustration",
+   "staff-discounting",
+   "aged-stock"
+  ],
+  "use": [
+   "pitch",
+   "video-opener",
+   "product-insight"
+  ]
+ },
+ {
+  "id": "Q-reddit-02",
+  "who": "other (commenter replying to the Pune owner; background not stated)",
+  "quote": "A sofa that hasn’t moved in 90 days isn’t inventory — it’s a loan you gave yourself at zero interest while paying rent on the square footage it occupies.",
+  "context": "Top reply to the Pune owner; also says nobody there has a per-SKU margin report by store and aging bracket.",
+  "platform": "Reddit r/smallbusiness",
+  "title": "Our furniture business does ₹80L/month but I genuinely don't know where the money goes (comment)",
+  "url": "https://www.reddit.com/r/smallbusiness/comments/1s3jt0r/our_furniture_business_does_80lmonth_but_i/ocg48gv/",
+  "date": "2026-03",
+  "engagement": "+2",
+  "themes": [
+   "aged-stock",
+   "tools-frustration"
+  ],
+  "use": [
+   "pitch",
+   "product-insight"
+  ]
+ },
+ {
+  "id": "Q-reddit-03",
+  "who": "owner (rural full-service furniture store, ~20K-population town, Ashley dealer)",
+  "quote": "I don’t want to sell a sofa I have $300 invested in for $100 over cost or a recliner for $50 over cost. I have made a pretty decent return in the past on this brand, but margins are eroding.",
+  "context": "Owner’s main vendor opened a garage ‘outlet’ competitor 15 minutes away; customers now come in ‘just looking’, take photos and leave.",
+  "platform": "Reddit r/smallbusiness",
+  "title": "Vendor-driven channel conflict",
+  "url": "https://www.reddit.com/r/smallbusiness/comments/1s37s41/vendordriven_channel_conflict/",
+  "date": "2026-03-25",
+  "engagement": "12 comments",
+  "themes": [
+   "pricing-new-stock",
+   "map-umrp",
+   "haggling"
+  ],
+  "use": [
+   "submission-research",
+   "product-insight"
+  ]
+ },
+ {
+  "id": "Q-reddit-04",
+  "who": "owner (2-store furniture business, 6 years, closing)",
+  "quote": "We’re just getting destroyed by online sales despite being a 150+ 5-star business, having good brands, low pricing, and a good selection, and trying out best to market digitally.",
+  "context": "Owner in his mid-30s explains in his own thread why he is closing two stores; thread also mentions an exclusive-brand dispute.",
+  "platform": "Reddit r/smallbusiness",
+  "title": "Mid-30s and getting close to closing our 2-store furniture business (OP comment)",
+  "url": "https://www.reddit.com/r/smallbusiness/comments/14wwgv1/mid30s_and_getting_close_to_closing_our_2store/jrk4lfv/",
+  "date": "2023-07-11",
+  "engagement": "thread +124, 74 comments",
+  "themes": [
+   "pricing-new-stock"
+  ],
+  "use": [
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-05",
+  "who": "owner (furniture store, 10 years owning, 25 in the business)",
+  "quote": "I have owned a furniture store for 10 years now and been in the business 25. Our industry as a whole is down right now and I’m hearing 20% down year to year is pretty common in my area.",
+  "context": "Reply to a 27-year-old owner whose sales fell 40%; adds that the lower-end side is down more than the higher end.",
+  "platform": "Reddit r/smallbusiness",
+  "title": "Furniture Business Struggling, what to do ? (comment)",
+  "url": "https://www.reddit.com/r/smallbusiness/comments/1lqxa3a/furniture_business_struggling_what_to_do/n16vguo/",
+  "date": "2025-07",
+  "engagement": "+1",
+  "themes": [
+   "aged-stock"
+  ],
+  "use": [
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-06",
+  "who": "owner (brick-and-mortar furniture and mattress store)",
+  "quote": "We are working over twice as hard this year to make the same (or even slightly less) money. Our marketing, sales, delivery, and reviews are constantly growing and improving, but our sales and profitability have been flat over the past year.",
+  "context": "Owner spending ~$35K/month on Meta and Google ads describes flat 2026 results; a second owner replies that months are 20–30% down.",
+  "platform": "Reddit r/smallbusiness",
+  "title": "Furniture Business Struggling, what to do ? (comment)",
+  "url": "https://www.reddit.com/r/smallbusiness/comments/1lqxa3a/furniture_business_struggling_what_to_do/odjg25n/",
+  "date": "2026",
+  "engagement": "+1",
+  "themes": [
+   "aged-stock"
+  ],
+  "use": [
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-07",
+  "who": "owner (single-location furniture store, Canada)",
+  "quote": "A lot of furniture specific pos systems are above my target budget, and have way more features than I need. What I’m using now (WooPos) handles deposits, and is $139/month. I’m looking for an alternative that is more budget friendly.",
+  "context": "Owner asking r/POS for a special-order-capable POS under $70/month; states a willingness-to-pay anchor.",
+  "platform": "Reddit r/POS",
+  "title": "ISO: POS For Small Furniture Store - Must Handle Special Orders (OP comment)",
+  "url": "https://www.reddit.com/r/POS/comments/1sqvmvs/iso_pos_for_small_furniture_store_must_handle/ohpzvbh/",
+  "date": "2026-04-20",
+  "engagement": "22 comments",
+  "themes": [
+   "tools-frustration"
+  ],
+  "use": [
+   "pitch",
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-08",
+  "who": "owner (furniture store, US, special-order model)",
+  "quote": "With Odoo, you can add an additional dollar amount to the retail price for each variant/attribute. HOWEVER, there is NO way you can also add an additional dollar amount to the wholesale price, unless you pay for special development from Odoo (we were quoted $3000 for just this customization).",
+  "context": "US owner warns the Canadian owner off Odoo: variant pricing breaks cost tracking, so POs are still adjusted by hand.",
+  "platform": "Reddit r/POS",
+  "title": "ISO: POS For Small Furniture Store - Must Handle Special Orders (comment)",
+  "url": "https://www.reddit.com/r/POS/comments/1sqvmvs/iso_pos_for_small_furniture_store_must_handle/okh9ns0/",
+  "date": "2026",
+  "engagement": "+1",
+  "themes": [
+   "tools-frustration",
+   "pricing-new-stock"
+  ],
+  "use": [
+   "product-insight",
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-09",
+  "who": "owner (small-to-mid single-location furniture store)",
+  "quote": "We are finally ready to upgrade from ticket pads to a POS with inventory management and are looking for a furniture-specific program to do so.",
+  "context": "Owner asks about Furniture Wizard vs Storis; the one substantive reply: ‘Furniture Wizard is garbage, support sucks’.",
+  "platform": "Reddit r/smallbusiness",
+  "title": "Furniture Wizard",
+  "url": "https://www.reddit.com/r/smallbusiness/comments/1kxj85i/furniture_wizard/",
+  "date": "2025-05-28",
+  "engagement": "1 comment",
+  "themes": [
+   "tools-frustration"
+  ],
+  "use": [
+   "submission-research",
+   "pitch"
+  ]
+ },
+ {
+  "id": "Q-reddit-10",
+  "who": "other (son of a furniture store owner, CS student)",
+  "quote": "My dad keeps track of all the merchandise in both of our warehouses in his HEAD!! This has led to a lot of problems as you can imagine due to human error and my dad not having photographic memory.",
+  "context": "Son describes a successful store that still writes sales on paper; father refuses a POS.",
+  "platform": "Reddit r/smallbusiness",
+  "title": "Advice for keeping track of inventory?",
+  "url": "https://www.reddit.com/r/smallbusiness/comments/1bvztk1/advice_for_keeping_track_of_inventory/",
+  "date": "2024-04-04",
+  "engagement": "+2, 6 comments",
+  "themes": [
+   "tools-frustration"
+  ],
+  "use": [
+   "video-opener",
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-11",
+  "who": "owner (furniture store plus other businesses)",
+  "quote": "After 1.5 years my system was locked out and I couldn’t see MY OWN Data.",
+  "context": "Owner locked out of the software running his store after a card change; asks who else is tired of paying for basic operations.",
+  "platform": "Reddit r/smallbusiness",
+  "title": "Business held hostage",
+  "url": "https://www.reddit.com/r/smallbusiness/comments/1x6zwfo/business_held_hostage/",
+  "date": "2026-10-15",
+  "engagement": "3 comments",
+  "themes": [
+   "tools-frustration"
+  ],
+  "use": [
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-12",
+  "who": "other (prospective buyer of a furniture store, relaying the sellers)",
+  "quote": "They say they double the price from wholesale and have no issue selling.",
+  "context": "Buyer doing diligence on a store that carries Ashley and consignment; keystone markup stated as the house rule.",
+  "platform": "Reddit r/smallbusiness",
+  "title": "Brick & Mortar Store: furniture, wholesale, local goods",
+  "url": "https://www.reddit.com/r/smallbusiness/comments/1illh4z/brick_mortar_store_furniture_wholesale_local_goods/",
+  "date": "2025-02-09",
+  "engagement": "1 comment",
+  "themes": [
+   "pricing-new-stock"
+  ],
+  "use": [
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-13",
+  "who": "manager (former furniture store manager, ~30 years ago)",
+  "quote": "I knew what she was doing: she wanted the set, but thought if she bitched about the quality that I’d lower the price. Well, I had full ability to sell anything for whatever I wanted; there was no “let me speak to your manager”",
+  "context": "Former manager recalls a shopper inventing defects on a $5K solid-oak bedroom set to force a discount; she sent her to competitors.",
+  "platform": "Reddit r/SaintMeghanMarkle (off-topic anecdote)",
+  "title": "The long game BRF edition (comment)",
+  "url": "https://www.reddit.com/r/SaintMeghanMarkle/comments/1bkm0ix/the_long_game_brf_edition/kw0kp11/",
+  "date": "2024-03-22",
+  "engagement": "+1",
+  "themes": [
+   "haggling",
+   "owner-approval"
+  ],
+  "use": [
+   "product-insight"
+  ]
+ },
+ {
+  "id": "Q-reddit-14",
+  "who": "manager (former sales manager, office furniture and supplies dealer)",
+  "quote": "Case-goods (furniture); was sold at a different flat rate with a bonus paid when less discount was applied or a reduced percentage if an large discount was applied (Typically a high revenue sale with lower margins).",
+  "context": "Manager describes replacing a demotivating margin-commission-plus-draw plan with a discount-sensitive flat rate; says revenue and profit rose, turnover fell.",
+  "platform": "Reddit r/sales",
+  "title": "Literally losing sleep over new comp plan (comment)",
+  "url": "https://www.reddit.com/r/sales/comments/19edl7a/literally_losing_sleep_over_new_comp_plan/kjcv7ix/",
+  "date": "2024-01-24",
+  "engagement": "+1",
+  "themes": [
+   "commission-conflict",
+   "staff-discounting"
+  ],
+  "use": [
+   "product-insight",
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-15",
+  "who": "manager (former store manager, discount furniture retailer)",
+  "quote": "I quit my job last July as a store manager at a discount furniture retailer for this reason. We got paid 100% commission, and only on items that physically left the store.",
+  "context": "Reply in a thread about customers not grasping inventory shortages; adds that staff are ‘pulling 80 weeks and barely hitting draw’.",
+  "platform": "Reddit r/retailhell",
+  "title": "Do people not realize that items are low in stock? (comment)",
+  "url": "https://www.reddit.com/r/retailhell/comments/ouo9ew/do_people_not_realize_that_items_are_low_in/h750zme/",
+  "date": "2021-07-30",
+  "engagement": "+3",
+  "themes": [
+   "commission-conflict"
+  ],
+  "use": [
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-16",
+  "who": "manager (former Lovesac showroom manager, 15 years retail)",
+  "quote": "the level of competitiveness in commission means you’re more likely to get sold something that sounds better than it is. Most well-paying commission sales are your real estate, cars, and luxury goods. Everything else you’re likely earning minimum wage plus 1-2% of “qualifying” sales.",
+  "context": "Former showroom manager answers whether furniture showroom staff earn a living wage.",
+  "platform": "Reddit r/Lovesac",
+  "title": "Do showroom employees make a living wage? (comment)",
+  "url": "https://www.reddit.com/r/Lovesac/comments/1mzqk4c/do_showroom_employees_make_a_living_wage/nanu7ql/",
+  "date": "2025-08-25",
+  "engagement": "+5",
+  "themes": [
+   "commission-conflict"
+  ],
+  "use": [
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-17",
+  "who": "salesperson (former, family-owned furniture store, 12 sales staff)",
+  "quote": "Non family members had the ability to discount items from 0-20%, and commission percentage was based on discount percentage. It was in everyone’s best interest to keep the margins high",
+  "context": "Ex-rep describes the discount authority and commission rule at a family-owned store that ran gimmicky 24-hour sales.",
+  "platform": "Reddit r/AskReddit",
+  "title": "Ex retail workers, what was the straw that broke the camel’s back? (comment)",
+  "url": "https://www.reddit.com/r/AskReddit/comments/wtd6sa/ex_retail_workers_what_was_the_straw_that_broke/il3q7r9/",
+  "date": "2022-08-20",
+  "engagement": "+1",
+  "themes": [
+   "staff-discounting",
+   "commission-conflict",
+   "owner-approval"
+  ],
+  "use": [
+   "pitch",
+   "product-insight"
+  ]
+ },
+ {
+  "id": "Q-reddit-18",
+  "who": "salesperson (same ex-rep, family-owned furniture store)",
+  "quote": "If someone had bought 3 rooms of furniture and we gave them a 20% discount to secure the deal, they undercut us and offered them a bigger discount we couldn’t even offer because we were maxed at 20% to attempt to sell them more things.",
+  "context": "The owners went back to the reps’ customers after a 24-hour sale and re-cut deals to 25–30% off; the whole sales floor walked out together.",
+  "platform": "Reddit r/AskReddit",
+  "title": "Ex retail workers, what was the straw that broke the camel’s back? (comment)",
+  "url": "https://www.reddit.com/r/AskReddit/comments/wtd6sa/ex_retail_workers_what_was_the_straw_that_broke/il3q7r9/",
+  "date": "2022-08-20",
+  "engagement": "+1",
+  "themes": [
+   "owner-approval",
+   "staff-discounting",
+   "commission-conflict"
+  ],
+  "use": [
+   "video-opener",
+   "pitch"
+  ]
+ },
+ {
+  "id": "Q-reddit-19",
+  "who": "salesperson (former, retail furniture shop, non-commission, NZ)",
+  "quote": "I used to hate it when people asked. It would put me in the uncomfortable position of being unable to offer any discounts... It would also mean I’d need to grab some manager down from their office so that they could also say no",
+  "context": "Thread asking whether haggling is normal in NZ furniture stores (+45, 56 comments); ellipsis joins two consecutive sentences.",
+  "platform": "Reddit r/Wellington",
+  "title": "Is it common to haggle prices inside a retail store for furnitures? (comment)",
+  "url": "https://www.reddit.com/r/Wellington/comments/y2gwf7/is_it_common_to_haggle_prices_inside_a_retail/is4k3bd/",
+  "date": "2022-10-12",
+  "engagement": "+11",
+  "themes": [
+   "owner-approval",
+   "haggling"
+  ],
+  "use": [
+   "video-opener",
+   "pitch"
+  ]
+ },
+ {
+  "id": "Q-reddit-20",
+  "who": "salesperson (former, baby-goods retail; adjacent small retail)",
+  "quote": "if someone had a price match or something like that, then there was a reason I could discuss with my manager to get them a discount. Otherwise I’d just ask my manager for a discount and they would say ‘why?’",
+  "context": "Same NZ haggling thread; explains that the manager needs a reason, not just ‘this person wants a discount’.",
+  "platform": "Reddit r/Wellington",
+  "title": "Is it common to haggle prices inside a retail store for furnitures? (comment)",
+  "url": "https://www.reddit.com/r/Wellington/comments/y2gwf7/is_it_common_to_haggle_prices_inside_a_retail/is36cog/",
+  "date": "2022-10-12",
+  "engagement": "+36",
+  "themes": [
+   "owner-approval"
+  ],
+  "use": [
+   "product-insight"
+  ]
+ },
+ {
+  "id": "Q-reddit-21",
+  "who": "salesperson (new hire, furniture store, daily commission)",
+  "quote": "I recently got a job at a furniture store where if you make a sale you get a commission daily depending on what you have sold and how much. The problem comes with customers who always haggle and try to pay below the buying price.",
+  "context": "New furniture rep asks r/sales how to stop being ‘hassled’; later says he will ‘keep the starting price a bit high so that even when they haggle I won’t sell at a loss’.",
+  "platform": "Reddit r/sales",
+  "title": "How to be better at sales",
+  "url": "https://www.reddit.com/r/sales/comments/1mn9019/how_to_be_better_at_sales/",
+  "date": "2025-08-11",
+  "engagement": "+14, 24 comments",
+  "themes": [
+   "haggling",
+   "commission-conflict",
+   "pricing-new-stock"
+  ],
+  "use": [
+   "video-opener",
+   "pitch"
+  ]
+ },
+ {
+  "id": "Q-reddit-22",
+  "who": "other (sales professional advising the new rep)",
+  "quote": "Bro it’s furniture. Of course people are going to haggle. That’s how they have been conditioned. Haggle with them and get commitment to honor discounts if they take it home today.",
+  "context": "Reply in the same thread; another reply scripts ‘I’m confident I can get the sales manager to approve a discount but we normally do that later on’.",
+  "platform": "Reddit r/sales",
+  "title": "How to be better at sales (comment)",
+  "url": "https://www.reddit.com/r/sales/comments/1mn9019/how_to_be_better_at_sales/n845kfz/",
+  "date": "2025-08",
+  "engagement": "+2",
+  "themes": [
+   "haggling",
+   "owner-approval"
+  ],
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "Q-reddit-23",
+  "who": "salesperson (former, The Brick, Canada)",
+  "quote": "If they make a sale at full listed price, they make 4% of the cost of the product. If they give you a discount, they only get 2%.",
+  "context": "Ex-employee explains Brick pay; also says ‘you might need to get the Sales Manager involved’ to get the best price.",
+  "platform": "Reddit r/VictoriaBC",
+  "title": "The Brick Douglas St (comment)",
+  "url": "https://www.reddit.com/r/VictoriaBC/comments/1nkjot2/the_brick_douglas_st/nf3evvp/",
+  "date": "2025-09-19",
+  "engagement": "+1",
+  "themes": [
+   "commission-conflict",
+   "staff-discounting",
+   "owner-approval"
+  ],
+  "use": [
+   "pitch",
+   "product-insight"
+  ]
+ },
+ {
+  "id": "Q-reddit-24",
+  "who": "salesperson (former, Ashley, worked there in college)",
+  "quote": "Furniture would take 6-9 months to be delivered sometimes and to appease customers they would just give a bigger discount but drop our commission lol. I had like 40k sale once that just erased my commission altogether",
+  "context": "Reply on a viral Ashley complaint thread; discount given after the sale came out of the rep’s pay.",
+  "platform": "Reddit r/homeowners",
+  "title": "Ashley's Furniture is an absolute nightmare (comment)",
+  "url": "https://www.reddit.com/r/homeowners/comments/1j523lm/ashleys_furniture_is_an_absolute_nightmare_never/mgfyeh5/",
+  "date": "2025-03-07",
+  "engagement": "+11",
+  "themes": [
+   "commission-conflict",
+   "staff-discounting"
+  ],
+  "use": [
+   "submission-research",
+   "pitch"
+  ]
+ },
+ {
+  "id": "Q-reddit-25",
+  "who": "salesperson (former, Bob’s Discount Furniture, ~15 years)",
+  "quote": "we were always pressured to sell it as the commission on it was 20% and the furniture commission is 5% when we sold clearance that was 4% and it was strictly commission, that’s why the sales people are very pushy",
+  "context": "Ex-employee explains why reps push protection plans; clearance pays a lower rate than regular goods.",
+  "platform": "Reddit r/pittsburgh",
+  "title": "Does anyone have experience with Bob's Discount Furniture? (comment)",
+  "url": "https://www.reddit.com/r/pittsburgh/comments/1dm7onn/does_anyone_have_experience_with_bobs_discount/mpsrq9x/",
+  "date": "2025-04-30",
+  "engagement": "+1",
+  "themes": [
+   "commission-conflict",
+   "aged-stock"
+  ],
+  "use": [
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-26",
+  "who": "salesperson (Ashley, 7 years)",
+  "quote": "Bonuses are based on delivered volume, Furniture protection plan %age of sales, and spiffs off certain mattresses.",
+  "context": "Answer to ‘Ashley Furniture Sales: the good, the bad, the ugly?’; describes the ‘up’ rotation system too.",
+  "platform": "Reddit r/sales",
+  "title": "Ashley Furniture Sales (comment)",
+  "url": "https://www.reddit.com/r/sales/comments/1ny6wac/ashley_furniture_sales/nhz2jhd/",
+  "date": "2025-10-04",
+  "engagement": "+9",
+  "themes": [
+   "commission-conflict"
+  ],
+  "use": [
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-27",
+  "who": "salesperson (B2C furniture, multi-location retailer)",
+  "quote": "We don’t get paid until the furniture is delivered, and I have found three sales of mine processed by my manager.",
+  "context": "Rep also reports a new rule: three walk-ins without a sale and you are sent home; third time, fired.",
+  "platform": "Reddit r/sales",
+  "title": "Is This As Corrupt As I Think?",
+  "url": "https://www.reddit.com/r/sales/comments/1rx6pso/is_this_as_corrupt_as_i_think/",
+  "date": "2026-03-18",
+  "engagement": "+15, 45 comments",
+  "themes": [
+   "commission-conflict"
+  ],
+  "use": [
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-28",
+  "who": "salesperson (23, 100% commission furniture sales consultant, small town)",
+  "quote": "my last two paychecks didn’t hit the minimum wage guarantee, so the store had to top me up. the catch is I now owe the company about $700 in draw debt that’s gonna come straight out of my future paychecks.",
+  "context": "Slow fall traffic turned the rep’s draw into debt; she is looking for a second job.",
+  "platform": "Reddit r/HowEarnMoneyOnline",
+  "title": "23f drowning in commission drawbacks and personal debt",
+  "url": "https://www.reddit.com/r/HowEarnMoneyOnline/comments/1wwabwm/23f_drowning_in_commission_drawbacks_and_personal/",
+  "date": "2026-10-03",
+  "engagement": "1 comment",
+  "themes": [
+   "commission-conflict"
+  ],
+  "use": [
+   "video-opener",
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-29",
+  "who": "salesperson (furniture sales, 9 months in)",
+  "quote": "My manager encourages us to take other people’s customers the second the salesperson even walks away so the customer can think",
+  "context": "Rep burned out by an ‘up’ system under a new manager who watches every move.",
+  "platform": "Reddit r/retailhell",
+  "title": "I’m over it",
+  "url": "https://www.reddit.com/r/retailhell/comments/1kev59u/im_over_it/",
+  "date": "2025-05-04",
+  "engagement": "+14",
+  "themes": [
+   "commission-conflict"
+  ],
+  "use": [
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-30",
+  "who": "salesperson (former, furniture store with in-house delivery)",
+  "quote": "Don’t be greedy about delivery costs though. Some in-house delivery services are commission based just like the salesperson. Managers will approve free delivery, but that means the delivery guy makes a flat rate of $55-$60 for the heaviest furniture he has ever lifted.",
+  "context": "Ex-rep advising BIFL buyers to haggle on price but not on delivery.",
+  "platform": "Reddit r/bifl",
+  "title": "BIFL furniture (comment)",
+  "url": "https://www.reddit.com/r/bifl/comments/lumiz3/bifl_furniture/gp9x0t0/",
+  "date": "2021-03-01",
+  "engagement": "+3",
+  "themes": [
+   "free-delivery",
+   "owner-approval"
+  ],
+  "use": [
+   "pitch",
+   "product-insight"
+  ]
+ },
+ {
+  "id": "Q-reddit-31",
+  "who": "salesperson (100% commission, furniture store with tiered promos)",
+  "quote": "We have a 10% off for anything 2000+ 15% for 3000 and 20% for every 5000. You can only use on during a purchase and it can not be paired with a top deal (working in a furniture store we have some naturally low priced items that can’t go lower)",
+  "context": "Rep describes the store’s discount ladder before a story about a customer demanding 20% off and free delivery for his birthday.",
+  "platform": "Reddit r/AskReddit",
+  "title": "Retail workers of Reddit, how did you deal with... (comment)",
+  "url": "https://www.reddit.com/r/AskReddit/comments/tiurhq/retail_workers_of_reddit_how_did_you_deal_with/i1gc8a4/",
+  "date": "2022-03-20",
+  "engagement": "+2",
+  "themes": [
+   "staff-discounting",
+   "haggling",
+   "free-delivery"
+  ],
+  "use": [
+   "product-insight"
+  ]
+ },
+ {
+  "id": "Q-reddit-32",
+  "who": "salesperson (same rep, same story)",
+  "quote": "Him: then let me get a free delivery. Me: unfortunately sir our deliveries are third party we can only change prices with their permission first. Him: then can you call them",
+  "context": "Free delivery requested as the fallback once a percentage discount was refused.",
+  "platform": "Reddit r/AskReddit",
+  "title": "Retail workers of Reddit, how did you deal with... (comment)",
+  "url": "https://www.reddit.com/r/AskReddit/comments/tiurhq/retail_workers_of_reddit_how_did_you_deal_with/i1gc8a4/",
+  "date": "2022-03-20",
+  "engagement": "+2",
+  "themes": [
+   "free-delivery",
+   "haggling"
+  ],
+  "use": [
+   "video-opener"
+  ]
+ },
+ {
+  "id": "Q-reddit-33",
+  "who": "salesperson (new, furniture outlet)",
+  "quote": "we got two types of tags: the white tags that apply discounts automatically and the red tags where we have to manually input everything.",
+  "context": "Outlet cashier describes tag types while a customer audits her checkout with a calculator and demands a trade discount without a trade card.",
+  "platform": "Reddit r/AskReddit",
+  "title": "What's the worst customer that you had to deal with? (comment)",
+  "url": "https://www.reddit.com/r/AskReddit/comments/fs3arn/whats_the_worst_customer_that_you_had_to_deal_with/flz8ek8/",
+  "date": "2020-03-31",
+  "engagement": "+2",
+  "themes": [
+   "retagging",
+   "tools-frustration"
+  ],
+  "use": [
+   "product-insight"
+  ]
+ },
+ {
+  "id": "Q-reddit-34",
+  "who": "salesperson (former, large furniture store)",
+  "quote": "Always buy furniture at the end of the month, their far more likely to cut a large deal to hit target and or bonus. Depending on what you are buying there’s lots of room for discounts.",
+  "context": "Ex-rep coaches buyers to reject the first few offers and return before closing on the last day of the month.",
+  "platform": "Reddit r/VictoriaBC",
+  "title": "Discount Furniture Stores? (comment)",
+  "url": "https://www.reddit.com/r/VictoriaBC/comments/pgwn1a/discount_furniture_stores/hbg2bxj/",
+  "date": "2021-09-03",
+  "engagement": "+4",
+  "themes": [
+   "commission-conflict",
+   "haggling"
+  ],
+  "use": [
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-35",
+  "who": "salesperson (former, non-commission furniture store)",
+  "quote": "My sales manager would give people discounts just for paying in cash over a store credit card when doing anything above $2000.",
+  "context": "Explains manager-discretion cash discounts even where staff earned no commission.",
+  "platform": "Reddit r/FinancialPlanning",
+  "title": "Why are 50% cash or all cash offers more... (comment)",
+  "url": "https://www.reddit.com/r/FinancialPlanning/comments/mvdzyq/why_are_50_cash_or_all_cash_offers_more/gvd6u7v/",
+  "date": "2021-04-21",
+  "engagement": "+1",
+  "themes": [
+   "owner-approval",
+   "staff-discounting"
+  ],
+  "use": [
+   "product-insight"
+  ]
+ },
+ {
+  "id": "Q-reddit-36",
+  "who": "salesperson (former, discount furniture store)",
+  "quote": "These things sat there for probably a year and no one ever expressed even a remote interest in buying them. Finally the manager gets tired of looking at these things so he marked them down 50%.",
+  "context": "Markdown decision made by manager fatigue, not by a rule; opening of a revenge story about fake trees.",
+  "platform": "Reddit r/pettyrevenge",
+  "title": "Customer gets revenge with a chainsaw",
+  "url": "https://www.reddit.com/r/pettyrevenge/comments/a5ts5o/customer_gets_revenge_with_a_chainsaw/",
+  "date": "2018-12-13",
+  "engagement": "+139",
+  "themes": [
+   "aged-stock"
+  ],
+  "use": [
+   "video-opener",
+   "product-insight"
+  ]
+ },
+ {
+  "id": "Q-reddit-37",
+  "who": "salesperson (former Canadian furniture chain employee)",
+  "quote": "to get around the legality of it what we do is offer a discount of 11.5% and then when 13% sales tax is added onto the 88.5% value of the item it ends up pretty close to its original before tax price",
+  "context": "‘We pay the tax’ event mechanics; the rep had to convince a manager to apply it correctly for a tax-exempt buyer.",
+  "platform": "Reddit r/AskReddit",
+  "title": "Children of 'I want to talk to your manager'... (comment)",
+  "url": "https://www.reddit.com/r/AskReddit/comments/b0ox0w/children_of_i_want_to_talk_to_your_manager/eige3e7/",
+  "date": "2019-03-13",
+  "engagement": "+932",
+  "themes": [
+   "retagging",
+   "owner-approval"
+  ],
+  "use": [
+   "product-insight"
+  ]
+ },
+ {
+  "id": "Q-reddit-38",
+  "who": "other (former Tempur-Pedic manufacturer rep)",
+  "quote": "The problem with high end mattresses is that there’s MAP pricing associated with them, Whether that be tempur, serta, Simmons, etc. So the real deals to be found are individually based on the retailer you go to. Normally they’ll advertise for “free this, or free that.”",
+  "context": "Explains why mattress deals come as bundled freebies rather than price cuts.",
+  "platform": "Reddit r/AskReddit",
+  "title": "What item, once you get a taste of the luxury... (comment)",
+  "url": "https://www.reddit.com/r/AskReddit/comments/7ldfkl/what_item_once_you_get_a_taste_of_the_luxury/drmabbz/",
+  "date": "2017-12-22",
+  "engagement": "+20",
+  "themes": [
+   "map-umrp",
+   "free-delivery"
+  ],
+  "use": [
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-39",
+  "who": "other (retail-side insider; role not stated)",
+  "quote": "they have the ability to provide discounts on their list price. However if they discount all the way to Coleman’s prices nobody on the retail side makes any money because the margin is too low.",
+  "context": "Reply to a shopper who used a showroom then bought from an online discounter; describes the ‘up’ rotation and commission-only pay.",
+  "platform": "Reddit r/Decor",
+  "title": "Coleman Furniture stay away (comment)",
+  "url": "https://www.reddit.com/r/Decor/comments/1m8xtg2/coleman_furniture_stay_away/nux5esz/",
+  "date": "2025-12-19",
+  "engagement": "+1",
+  "themes": [
+   "map-umrp",
+   "haggling",
+   "staff-discounting"
+  ],
+  "use": [
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-40",
+  "who": "other (anonymous; claims industry knowledge)",
+  "quote": "Furniture and matress retailers. Most of them still use the keystone markup pricing model (2x cost, for a gross margin of 100%). Even when you haggle, get 10-15% off and feel like you’ve won at some level, the retailer is still laughing all the way to the bank.",
+  "context": "Reply to ‘what industry is shadier than people realize’; unverified but consistent with owner statements above.",
+  "platform": "Reddit r/AskReddit",
+  "title": "What industry is shadier than most people realize? (comment)",
+  "url": "https://www.reddit.com/r/AskReddit/comments/967brx/what_industry_is_shadier_than_most_people_realize/e3zcloz/",
+  "date": "2018-08-10",
+  "engagement": "+1",
+  "themes": [
+   "pricing-new-stock",
+   "haggling"
+  ],
+  "use": [
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-41",
+  "who": "other (furniture supply-chain insider, ‘higher up in the supply chain’)",
+  "quote": "Amazon & Wayfair proceeded to reshape the industry with prices equivalent (or better) than buying local, free delivery and no-hassle returns... The retail store owners are mostly aged out, their kids don’t want to take over (no kid dreams of owning a furniture store)",
+  "context": "Supplier explains why mom-and-pop furniture stores are closing; ellipsis skips two sentences.",
+  "platform": "Reddit r/smallbusiness",
+  "title": "Monthly revenue is up 38k (comment)",
+  "url": "https://www.reddit.com/r/smallbusiness/comments/1cgcnku/monthly_revenue_is_up_38k/l1yhwwv/",
+  "date": "2024-04-30",
+  "engagement": "+1",
+  "themes": [
+   "free-delivery",
+   "pricing-new-stock"
+  ],
+  "use": [
+   "submission-research",
+   "pitch"
+  ]
+ },
+ {
+  "id": "Q-reddit-42",
+  "who": "customer (Salem, OR; liquidation sale)",
+  "quote": "A friend was there yesterday haggling with the store manager about a sofa price and the manager took an extra $1,000 off. My friend said the identical sofa is available online with delivery for $600 less than the rock bottom “lowest price”.",
+  "context": "Thread (+86) on a closing store where ‘none of the furniture is priced — you have to ask a salesperson’; tags show crossed-out prices.",
+  "platform": "Reddit r/SALEM",
+  "title": "Avoid Kuebler's Furniture (comment)",
+  "url": "https://www.reddit.com/r/SALEM/comments/1vpev4l/avoid_kueblers_furniture/p3yjol2/",
+  "date": "2026-08-15",
+  "engagement": "+9",
+  "themes": [
+   "haggling",
+   "owner-approval",
+   "retagging"
+  ],
+  "use": [
+   "video-opener"
+  ]
+ },
+ {
+  "id": "Q-reddit-43",
+  "who": "customer (buying a floor-model Stickley sofa)",
+  "quote": "He understood our concerns but unfortunately couldn’t authorize a discount and the store manager was at a wedding so he said he’d contact the store manager tomorrow and let me know if it was possible",
+  "context": "Floor model marked down twice since May with visible wear; rep could not approve more, manager unreachable; buyer paid full sale price out of anxiety.",
+  "platform": "Reddit r/RedditForGrownups",
+  "title": "can I haggle price for a floor model clearance sofa? (OP comment)",
+  "url": "https://www.reddit.com/r/RedditForGrownups/comments/imr355/can_i_haggle_price_for_a_floor_model_clearance/g47gma6/",
+  "date": "2020-09-04",
+  "engagement": "+1",
+  "themes": [
+   "owner-approval",
+   "aged-stock"
+  ],
+  "use": [
+   "video-opener",
+   "pitch"
+  ]
+ },
+ {
+  "id": "Q-reddit-44",
+  "who": "customer (advising the Stickley buyer)",
+  "quote": "Ask for the manager, not the floor person and patiently wait. They seem to take forever when approving a discount as if waiting too long is going to change your mind and make you willing to pay full price.",
+  "context": "Same thread; the customer’s view of the approval wait.",
+  "platform": "Reddit r/RedditForGrownups",
+  "title": "can I haggle price for a floor model clearance sofa? (comment)",
+  "url": "https://www.reddit.com/r/RedditForGrownups/comments/imr355/can_i_haggle_price_for_a_floor_model_clearance/g42zlzw/",
+  "date": "2020-09-04",
+  "engagement": "+2",
+  "themes": [
+   "owner-approval",
+   "haggling"
+  ],
+  "use": [
+   "pitch"
+  ]
+ },
+ {
+  "id": "Q-reddit-45",
+  "who": "customer (Canada)",
+  "quote": "I told them I’d like to pay cash and get free delivery. It took some negotiation but I got it. Then I pulled the cash out of my wallet and had about 20% less than the tag price and said I’d like it for this amount",
+  "context": "End-of-month, half-hour-before-close haggle; saved over $600 plus free delivery.",
+  "platform": "Reddit r/PersonalFinanceCanada",
+  "title": "What are some surprising things that are negotiable? (comment)",
+  "url": "https://www.reddit.com/r/PersonalFinanceCanada/comments/jecf2n/what_are_some_surprising_things_that_are/g9e4i41/",
+  "date": "2020-10-20",
+  "engagement": "+77",
+  "themes": [
+   "haggling",
+   "free-delivery"
+  ],
+  "use": [
+   "video-opener"
+  ]
+ },
+ {
+  "id": "Q-reddit-46",
+  "who": "customer (12-year sales professional shopping for couches)",
+  "quote": "I went to Ashley’s and the dude had a earpiece and the manager kept telling him stuff. It was like he had a sniper on him. When we left the dudes face was sweating",
+  "context": "Thread (+65, 90 comments) on pressure in furniture sales; a local-store rep replies that his owners ‘never pressure us to pressure customers’.",
+  "platform": "Reddit r/sales",
+  "title": "Can we talk about the furniture sales industry?",
+  "url": "https://www.reddit.com/r/sales/comments/1njdqn6/can_we_talk_about_the_furniture_sales_industry/",
+  "date": "2025-09-17",
+  "engagement": "+65, 90 comments",
+  "themes": [
+   "owner-approval",
+   "commission-conflict"
+  ],
+  "use": [
+   "video-opener"
+  ]
+ },
+ {
+  "id": "Q-reddit-47",
+  "who": "other (neighbouring worker observing a liquidation)",
+  "quote": "They hired liquidators who came in upped everything up already $500 and are going to to work on commission and are going to use the haggle system. Let the customer feel like they are getting a deal.",
+  "context": "Observation of a ‘50–70% off’ furniture liquidation next door to the poster’s workplace.",
+  "platform": "Reddit r/Showerthoughts",
+  "title": "The stores that advertise... 50%-70% off are kind of saying... (OP)",
+  "url": "https://www.reddit.com/r/Showerthoughts/comments/e3picx/the_stores_that_advertise_mainly_furniture_stores/",
+  "date": "2019-11-30",
+  "engagement": "+3",
+  "themes": [
+   "retagging",
+   "haggling"
+  ],
+  "use": [
+   "submission-research"
+  ]
+ },
+ {
+  "id": "Q-reddit-48",
+  "who": "other (anonymous)",
+  "quote": "Bartering only works on items such as vehicles and furniture with commission sales people or an independent store where owner is the manager.",
+  "context": "Reply explaining where haggling works in the US; names the independent owner-operator as the case where it does.",
+  "platform": "Reddit r/AskReddit",
+  "title": "What are things that the rest of the world... (comment)",
+  "url": "https://www.reddit.com/r/AskReddit/comments/190xsnt/what_are_things_that_the_rest_of_the_world/kgrkve4/",
+  "date": "2024-01-07",
+  "engagement": "+1",
+  "themes": [
+   "haggling",
+   "owner-approval"
+  ],
+  "use": [
+   "pitch"
+  ]
+ }
+]
