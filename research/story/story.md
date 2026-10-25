@@ -30,15 +30,15 @@ Small businesses are already moving. In 2023, 23% of them used generative AI. By
 **Page text:**
 We're building for the small furniture store. One owner, maybe family, a few salespeople on commission, a couple of guys on the delivery truck. There are about 20,000 of these stores in the US with fewer than 20 people, and 2,071 in California alone. The average one does about $1.4 million a year.
 
-We started with one of them, and we're building it with her directly. Jazz runs a furniture store with her parents near Sacramento, California. Around $500,000 of inventory, three salespeople, two on delivery. The family isn't on the floor every day, and they're the only ones who really know what everything cost.
+We started with one of them, and we're building it with her directly. Mona runs a furniture store with her parents near Sacramento, California. Around $500,000 of inventory, three salespeople, two on delivery. The family isn't on the floor every day, and they're the only ones who really know what everything cost.
 
-A lot of these owners are like Jazz's parents: they built the business themselves, and English may not be their first language. About one in five US businesses with employees is owned by an immigrant. Software for them has to be simple, and it has to explain itself.
+A lot of these owners are like Mona's parents: they built the business themselves, and English may not be their first language. About one in five US businesses with employees is owned by an immigrant. Software for them has to be simple, and it has to explain itself.
 
 **Slide line:** About 20,000 small US furniture stores. The owner prices everything, and the owner isn't always there.
 
-**Spoken line:** Jazz runs a furniture store with her parents near Sacramento. Three salespeople, and the family isn't there every day.
+**Spoken line:** Mona runs a furniture store with her parents near Sacramento. Three salespeople, and the family isn't there every day.
 
-**Sources:** 20,098 US furniture stores under 20 employees, 2,071 in California: Census County Business Patterns 2023 (research/11, 14). $1.41M average receipts for small furniture firms: Census Statistics of US Businesses 2022 (F-industry-03). Immigrant ownership: 19.1% of US employer firms in 2022, Census Annual Business Survey via USAFacts (https://usafacts.org/articles/how-many-us-businesses-are-owned-by-immigrants/). Store details: owner interview, October 24 2026, and invoice 1291 (research/09). Jazz agreed to be named; the store and its town are not named.
+**Sources:** 20,098 US furniture stores under 20 employees, 2,071 in California: Census County Business Patterns 2023 (research/11, 14). $1.41M average receipts for small furniture firms: Census Statistics of US Businesses 2022 (F-industry-03). Immigrant ownership: 19.1% of US employer firms in 2022, Census Annual Business Survey via USAFacts (https://usafacts.org/articles/how-many-us-businesses-are-owned-by-immigrants/). Store details: owner interview, October 24 2026, and invoice 1291 (research/09). Mona agreed to be named; the store and its town are not named.
 
 ---
 
@@ -53,14 +53,14 @@ Then the price has to survive the sales floor. Salespeople get paid on the sale,
 
 When there's a sale, it's worse. Someone has to walk the floor, look at each piece, work out a new price, and retag it by hand, one at a time.
 
-And the stock that doesn't sell just sits. A typical piece is on the floor about four months. At Jazz's store, about 10% has been there more than nine months.
+And the stock that doesn't sell just sits. A typical piece is on the floor about four months. At Mona's store, about 10% has been there more than nine months.
 
 That all lands on the owner's time:
-- **Phone calls.** Salespeople call the owner to ask if they can take an offer. Jazz's parents got those calls all weekend when they were away.
+- **Phone calls.** Salespeople call the owner to ask if they can take an offer. Mona's parents got those calls all weekend when they were away.
 - **Pricing on weekends.** Weekends are when the store is busiest and when the owner is least likely to be there.
 - **Customers leave while they wait.** While the salesperson is on the phone, the customer stands there and other customers wait. Some of them leave.
 
-**In Jazz's words:**
+**In Mona's words:**
 > "We got this item for $50 but I wanna sell it for $75." That's the call. She wants at least $100, and there's no number written down anywhere to settle it.
 
 > "10% of our floor is more than nine months old and I would like that to be zero."
@@ -128,7 +128,7 @@ Built and running on Emergent. Plans start at $200 a month per store.
 **Headline:** Everything here is backed up.
 
 **Page text:**
-We're building this with Jazz and her family. We sat down with them, walked through how they price and what the calls look like, and they shared a real invoice from the store, with customer and store details blacked out.
+We're building this with Mona and her family. We sat down with them, walked through how they price and what the calls look like, and they shared a real invoice from the store, with customer and store details blacked out.
 
 Then we checked whether other stores have the same problem. We read 122 public posts, reviews and video comments from furniture owners, salespeople and customers. The same things kept coming up: haggling, commission pushing discounts, and someone running to ask the boss.
 
@@ -235,7 +235,7 @@ Podium grew the same way: it started in the founder's family business and sold d
 
 **Slide line:** First ten through the owner-operator's network. Then new and changing owners from public filings. Then trade shows and buying groups.
 
-**Sources:** owner interview and Nikhil (Jazz's network and role, 05:55). California business registry, public search and bulk records: sos.ca.gov business search; bulk "Master Unload" pricing per a vendor guide (Kyckr 2025), not confirmed on the state site. Business sales: BizBuySell, 9,586 closed small-business sales in 2025 (research/08, F-inflect-05). Podium: Herald Extra 2017, SaaStr; founder's family tire and gas business, door-to-door early sales. Las Vegas Market, HFA, Furniture First: research/04. Check privacy rules before using bulk registry data for outreach.
+**Sources:** owner interview and Nikhil (Mona's network and role, 05:55). California business registry, public search and bulk records: sos.ca.gov business search; bulk "Master Unload" pricing per a vendor guide (Kyckr 2025), not confirmed on the state site. Business sales: BizBuySell, 9,586 closed small-business sales in 2025 (research/08, F-inflect-05). Podium: Herald Extra 2017, SaaStr; founder's family tire and gas business, door-to-door early sales. Las Vegas Market, HFA, Furniture First: research/04. Check privacy rules before using bulk registry data for outreach.
 
 ---
 

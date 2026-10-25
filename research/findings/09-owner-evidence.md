@@ -13,7 +13,7 @@ Received from Nikhil by message on 2026-10-25 ~01:20 AM. One customer invoice fr
 
 ## Findings
 ### F-evidence-01 — The interviewed store is a discounter near Sacramento, California
-- **Value:** a family-run furniture store (Jazz runs it with her parents); store name, address and contact details kept private
+- **Value:** a family-run furniture store (Mona runs it with her parents); store name, address and contact details kept private
 - **Source:** Invoice 1291 header, store copy supplied by the owner
 - **Confidence:** high
 - **Use:** submission-research · pitch. Public wording: "a store near Sacramento, California." Never name the store or its town.

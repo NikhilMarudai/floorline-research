@@ -1,6 +1,6 @@
 # Owner interview
 
-The owner-operator of a family-run furniture store near Sacramento, California, interviewed October 24, 2026. She agreed to be named (Jazz). Store name and town are kept private. Her answers are paraphrased closely; direct quotes are marked.
+The owner-operator of a family-run furniture store near Sacramento, California, interviewed October 24, 2026. We call her Mona. Store name and town are kept private. Her answers are paraphrased closely; direct quotes are marked.
 
 
 - **Floor moment (Q1–Q2):** the salesperson steps away and makes the customer wait while calling the owner. Example: "we got this item for $50 but I wanna sell it for $75" vs the owner wanting "at least $150 or $100". Lots of back-and-forth; when they don't agree the salesperson tells the customer "my boss said no to this bargain" and the sale is lost. "It's a little annoying being the bad cop." Last month her parents were away for the weekend and kept getting these calls.
